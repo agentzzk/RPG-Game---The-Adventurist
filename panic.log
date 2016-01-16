@@ -1,0 +1,2037 @@
+*** FATAL INTERNAL ERROR in "Ready" ***
+Date: Mar 25 2013 6:16 PM
+
+File Name: C:\Program Files (x86)\Ready to Program\Ready.exe
+Version: 1.7.1  [11]
+File Size: 2908199
+File Date: Oct 7 2003 4:57 PM
+Operating System: After Windows XP
+JVM: Ready Built-in JRE (1.4.2 or later)
+"assert" Statements: disabled
+
+
+Previous Operations:
+    Line Starts: 476:13217 477:13218 478:13219 479:13220
+    Insert Text (2) - numNewLines: 0
+    Insert Text (3) - sz:479:13236 - slFr:3474 - slTo:3474 - nlA:0
+    Line Starts: 476:13233 477:13234 478:13235 479:13236
+    Undo (3) - sz:479:13236 - slFr:3474 - slTo:3458 - nlA:0
+    Line Starts: 476:13233 477:13234 478:13235 479:13236
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: 734570 - Undo: 1
+    Text - sz:479:13236 - slFr:89:66:3474 - slTo:89:50:3458 - nlA:0
+    Line Starts: 476:13233 477:13234 478:13235 479:13236
+    Undo (2) - Undo size: 9 - Repl from: 3458 - Repl to: 3470
+    Delete Selection (1) - Text: 734570
+    Text - sz:479:13236 - slFr:89:66:3458 - slTo:89:50:3470 - nlA:0
+    Line Starts: 476:13233 477:13234 478:13235 479:13236
+    Delete Selection (2) - From line: 89 - From col: 50 - To line: 89 - To col: 66
+    Delete Selection (3) - sz:479:13224 - slFr:3458 - slTo:3458 - nlA:0
+    Line Starts: 476:13221 477:13222 478:13223 479:13224
+    Insert Text (1) - Text: 734570 - size: 9 - clean: 1
+    Text - sz:479:13224 - slFr:3458 - slTo:3458 - nlA:0
+    Line Starts: 476:13221 477:13222 478:13223 479:13224
+    Insert Text (2) - numNewLines: 0
+    Insert Text (3) - sz:479:13233 - slFr:3467 - slTo:3467 - nlA:0
+    Line Starts: 476:13230 477:13231 478:13232 479:13233
+    Undo (3) - sz:479:13233 - slFr:3458 - slTo:3467 - nlA:0
+    Line Starts: 476:13230 477:13231 478:13232 479:13233
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: 734570 - Undo: 1
+    Text - sz:479:13233 - slFr:89:50:3458 - slTo:89:59:3467 - nlA:0
+    Line Starts: 476:13230 477:13231 478:13232 479:13233
+    Undo (2) - Undo size: 9 - Repl from: 3496 - Repl to: 3504
+    Delete Selection (1) - Text: 734570
+    Text - sz:479:13233 - slFr:89:50:3496 - slTo:89:59:3504 - nlA:0
+    Line Starts: 476:13230 477:13231 478:13232 479:13233
+    Delete Selection (2) - From line: 89 - From col: 50 - To line: 89 - To col: 59
+    Delete Selection (3) - sz:479:13225 - slFr:3496 - slTo:3496 - nlA:0
+    Line Starts: 476:13222 477:13223 478:13224 479:13225
+    Insert Text (1) - Text: 734570 - size: 9 - clean: 1
+    Text - sz:479:13225 - slFr:3496 - slTo:3496 - nlA:0
+    Line Starts: 476:13222 477:13223 478:13224 479:13225
+    Insert Text (2) - numNewLines: 0
+    Insert Text (3) - sz:479:13234 - slFr:3505 - slTo:3505 - nlA:0
+    Line Starts: 476:13231 477:13232 478:13233 479:13234
+    Undo (3) - sz:479:13234 - slFr:3496 - slTo:3505 - nlA:0
+    Line Starts: 476:13231 477:13232 478:13233 479:13234
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: 734570 - Undo: 1
+    Text - sz:479:13234 - slFr:90:21:3496 - slTo:90:30:3505 - nlA:0
+    Line Starts: 476:13231 477:13232 478:13233 479:13234
+    Undo (2) - Undo size: 9 - Repl from: 3416 - Repl to: 3424
+    Delete Selection (1) - Text: 734570
+    Text - sz:479:13234 - slFr:90:21:3416 - slTo:90:30:3424 - nlA:0
+    Line Starts: 476:13231 477:13232 478:13233 479:13234
+    Delete Selection (2) - From line: 90 - From col: 21 - To line: 90 - To col: 30
+    Delete Selection (3) - sz:479:13226 - slFr:3416 - slTo:3416 - nlA:0
+    Line Starts: 476:13223 477:13224 478:13225 479:13226
+    Insert Text (1) - Text: 734570 - size: 9 - clean: 1
+    Text - sz:479:13226 - slFr:3416 - slTo:3416 - nlA:0
+    Line Starts: 476:13223 477:13224 478:13225 479:13226
+    Insert Text (2) - numNewLines: 0
+    Insert Text (3) - sz:479:13235 - slFr:3425 - slTo:3425 - nlA:0
+    Line Starts: 476:13232 477:13233 478:13234 479:13235
+    Undo (3) - sz:479:13235 - slFr:3416 - slTo:3425 - nlA:0
+    Line Starts: 476:13232 477:13233 478:13234 479:13235
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: 734570 - Undo: 1
+    Text - sz:479:13235 - slFr:89:8:3416 - slTo:89:17:3425 - nlA:0
+    Line Starts: 476:13232 477:13233 478:13234 479:13235
+    Undo (2) - Undo size: 0 - Repl from: 3398 - Repl to: 3407
+    Delete Selection (1) - Text: 734570
+    Text - sz:479:13235 - slFr:89:8:3398 - slTo:89:17:3407 - nlA:0
+    Line Starts: 476:13232 477:13233 478:13234 479:13235
+    Delete Selection (2) - From line: 89 - From col: 8 - To line: 89 - To col: 17
+    Delete Selection (3) - sz:478:13226 - slFr:3398 - slTo:3398 - nlA:0
+    Line Starts: 475:13223 476:13224 477:13225 478:13226
+    Undo (3) - sz:478:13226 - slFr:3398 - slTo:3398 - nlA:0
+    Line Starts: 475:13223 476:13224 477:13225 478:13226
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: 734570 - Undo: 1
+    Text - sz:478:13226 - slFr:87:50:3398 - slTo:87:50:3398 - nlA:0
+    Line Starts: 475:13223 476:13224 477:13225 478:13226
+    Undo (2) - Undo size: 0 - Repl from: 3407 - Repl to: 3517
+    Delete Selection (1) - Text: 734570
+    Text - sz:478:13226 - slFr:87:50:3407 - slTo:87:50:3517 - nlA:0
+    Line Starts: 475:13223 476:13224 477:13225 478:13226
+    Delete Selection (2) - From line: 87 - From col: 50 - To line: 87 - To col: 50
+    Delete Selection (3) - sz:477:13116 - slFr:3407 - slTo:3407 - nlA:0
+    Line Starts: 474:13113 475:13114 476:13115 477:13116
+    Undo (3) - sz:477:13116 - slFr:3407 - slTo:3407 - nlA:0
+    Line Starts: 474:13113 475:13114 476:13115 477:13116
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: 734570 - Undo: 1
+    Text - sz:477:13116 - slFr:88:8:3407 - slTo:88:8:3407 - nlA:0
+    Line Starts: 474:13113 475:13114 476:13115 477:13116
+    Undo (2) - Undo size: 0 - Repl from: 3398 - Repl to: 3407
+    Delete Selection (1) - Text: 734570
+    Text - sz:477:13116 - slFr:88:8:3398 - slTo:88:8:3407 - nlA:0
+    Line Starts: 474:13113 475:13114 476:13115 477:13116
+    Delete Selection (2) - From line: 88 - From col: 8 - To line: 88 - To col: 8
+    Delete Selection (3) - sz:476:13107 - slFr:3398 - slTo:3398 - nlA:0
+    Line Starts: 473:13104 474:13105 475:13106 476:13107
+    Undo (3) - sz:476:13107 - slFr:3398 - slTo:3398 - nlA:0
+    Line Starts: 473:13104 474:13105 475:13106 476:13107
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: 734570 - Undo: 1
+    Text - sz:476:13107 - slFr:87:50:3398 - slTo:87:50:3398 - nlA:0
+    Line Starts: 473:13104 474:13105 475:13106 476:13107
+    Undo (2) - Undo size: 1 - Repl from: 11808 - Repl to: 11809
+    Delete Selection (1) - Text: 734570
+    Text - sz:476:13107 - slFr:87:50:11808 - slTo:87:50:11809 - nlA:0
+    Line Starts: 473:13104 474:13105 475:13106 476:13107
+    Delete Selection (2) - From line: 87 - From col: 50 - To line: 87 - To col: 50
+    Delete Selection (3) - sz:476:13106 - slFr:11808 - slTo:11808 - nlA:0
+    Line Starts: 473:13103 474:13104 475:13105 476:13106
+    Insert Text (1) - Text: 734570 - size: 1 - clean: 1
+    Text - sz:476:13106 - slFr:11808 - slTo:11808 - nlA:0
+    Line Starts: 473:13103 474:13104 475:13105 476:13106
+    Insert Text (2) - numNewLines: 0
+    Insert Text (3) - sz:476:13107 - slFr:11809 - slTo:11809 - nlA:0
+    Line Starts: 473:13104 474:13105 475:13106 476:13107
+    Undo (3) - sz:476:13107 - slFr:11808 - slTo:11809 - nlA:0
+    Line Starts: 473:13104 474:13105 475:13106 476:13107
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: 734570 - Undo: 1
+    Text - sz:476:13107 - slFr:424:34:11808 - slTo:424:35:11809 - nlA:0
+    Line Starts: 473:13104 474:13105 475:13106 476:13107
+    Undo (2) - Undo size: 13131 - Repl from: 0 - Repl to: 13123
+    Delete Selection (1) - Text: 734570
+    Text - sz:476:13107 - slFr:424:34:0 - slTo:424:35:13123 - nlA:0
+    Line Starts: 473:13104 474:13105 475:13106 476:13107
+    Delete Selection (2) - From line: 424 - From col: 34 - To line: 424 - To col: 35
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: 734570 - Undo: 1
+    Text - sz:476:13107 - slFr:424:34:0 - slTo:424:35:13123 - nlA:0
+    Line Starts: 473:13104 474:13105 475:13106 476:13107
+    Undo (2) - Undo size: 0 - Repl from: 11768 - Repl to: 11907
+    Delete Selection (1) - Text: 734570
+    Text - sz:476:13107 - slFr:424:34:11768 - slTo:424:35:11907 - nlA:0
+    Line Starts: 473:13104 474:13105 475:13106 476:13107
+    Delete Selection (2) - From line: 424 - From col: 34 - To line: 424 - To col: 35
+    Delete Selection (3) - sz:471:12968 - slFr:11768 - slTo:11768 - nlA:0
+    Line Starts: 468:12965 469:12966 470:12967 471:12968
+
+
+
+The environment has experienced an unexpected internal error.
+
+This error is caused by a bug in the environment and is not your fault!
+Details about the crash have been saved in the file "K:\Computer Science\RPG Text\Game\Programming\panic.log".
+
+If possible, please e-mail this file to readybugs@hsa.on.ca
+
+Here are some details about the error:
+   Error = Line Database Verify Failed (2)
+Num lines: 471 - Size: 12968 - Other - 2 - 0
+---
+--- (6035)
+   File = src\edtext.c
+   Line = 6160
+
+All unsaved open files will be saved with a ".sav" or ".sv#" extension.
+
+List of Modules: 
+    C:\Program Files (x86)\Ready to Program\Ready.exe
+    C:\Windows\SysWOW64\ntdll.dll
+    C:\Program Files\AVAST Software\Avast\snxhk.dll
+    C:\Windows\syswow64\KERNEL32.dll
+    C:\Windows\syswow64\KERNELBASE.dll
+    C:\Windows\syswow64\USER32.dll
+    C:\Windows\syswow64\GDI32.dll
+    C:\Windows\syswow64\LPK.dll
+    C:\Windows\syswow64\USP10.dll
+    C:\Windows\syswow64\msvcrt.dll
+    C:\Windows\syswow64\ADVAPI32.dll
+    C:\Windows\SysWOW64\sechost.dll
+    C:\Windows\syswow64\RPCRT4.dll
+    C:\Windows\syswow64\SspiCli.dll
+    C:\Windows\syswow64\CRYPTBASE.dll
+    C:\Windows\syswow64\comdlg32.dll
+    C:\Windows\syswow64\SHLWAPI.dll
+    C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.17514_none_ec83dffa859149af\COMCTL32.dll
+    C:\Windows\syswow64\SHELL32.dll
+    C:\Windows\system32\VERSION.dll
+    C:\Windows\system32\WINMM.dll
+    C:\Windows\system32\IMM32.DLL
+    C:\Windows\syswow64\MSCTF.dll
+    C:\Windows\system32\uxtheme.dll
+    C:\Program Files (x86)\Ready to Program\Support\Bin\edjdll.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\client\jvm.dll
+    C:\Windows\system32\apphelp.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\hpi.dll
+    C:\Windows\system32\ole32.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\verify.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\java.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\zip.dll
+    C:\Windows\system32\dwmapi.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\dt_shmem.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\net.dll
+    C:\Windows\syswow64\WS2_32.dll
+    C:\Windows\syswow64\NSI.dll
+    C:\Windows\system32\NLAapi.dll
+    C:\Windows\system32\napinsp.dll
+    C:\Windows\system32\pnrpnsp.dll
+    C:\Windows\System32\mswsock.dll
+    C:\Windows\system32\DNSAPI.dll
+    C:\Windows\System32\winrnr.dll
+    C:\Windows\system32\IPHLPAPI.DLL
+    C:\Windows\system32\WINNSI.DLL
+    C:\Windows\System32\fwpuclnt.dll
+    C:\Windows\system32\rasadhlp.dll
+    C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.DLL
+    C:\Program Files (x86)\ASUS\AI Suite II\TurboV EVO\HookKey32.dll
+    C:\Windows\system32\dbghelp.dll
+
+  0 .V PC=0023:77a9f8b1 Ret=75651194 Frame=0018b4f4 Stack=0018b488
+    Parameters (0x000007fc 0x00003a98 0x00000000 0x0018b530)
+    Unknown module, ZwWaitForSingleObject() + 0021 byte(s)
+  1 .V PC=0023:75651194 Ret=75651148 Frame=0018b50c Stack=0018b4fc
+    Parameters (0x000007fc 0x00003a98 0x00000000 0x0018ddc8)
+    Unknown module, WaitForSingleObjectEx() + 0067 byte(s)
+  2 .V PC=0023:75651148 Ret=004162f5 Frame=0018b520 Stack=0018b514
+    Parameters (0x000007fc 0x00003a98 0x0018de80 0x00408a15)
+    Unknown module, WaitForSingleObject() + 0018 byte(s)
+  3 .V PC=0023:004162f5 Ret=00415768 Frame=0018ddc8 Stack=0018b528
+    Parameters (0x00000001 0x00001793 0x005fe924 0x00001810)
+    src\edfail.c, MyFailErrorBox (), Line 0987+0020 byte(s)
+  4 .V PC=0023:00415768 Ret=0044460c Frame=0018ddf0 Stack=0018ddd0
+    Parameters (0x00001793 0x005fe924 0x00001810 0x00000000)
+    src\edfail.c, EdFail_Fatal (), Line 0494+0027 byte(s)
+  5 .V PC=0023:0044460c Ret=0043f23f Frame=0018de3c Stack=0018ddf8
+    Parameters (0x00734570 0x0018e2f8 0x00002e83 0x00002df8)
+    src\edtext.c, MyVerifyLineDB (), Line 6162+0048 byte(s)
+  6 .V PC=0023:0043f23f Ret=0043fd93 Frame=0018de80 Stack=0018de44
+    Parameters (0x00734570 0x06e27010 0x00000000 0x00002df8)
+    src\edtext.c, EdText_SelectionDelete (), Line 2499+0009 byte(s)
+  7 .V PC=0023:0043fd93 Ret=0040d29a Frame=0018dea8 Stack=0018de88
+    Parameters (0x00734570 0x00000001 0x00734570 0x00001a93)
+    src\edtext.c, EdText_Undo (), Line 2993+0009 byte(s)
+  8 .V PC=0023:0040d29a Ret=0040aab0 Frame=0018dec0 Stack=0018deb0
+    Parameters (0x00010612 0x00000001 0x0018e358 0x00408a15)
+    src\eddisp.c, MyEditUndo (), Line 4829+0013 byte(s)
+  9 .V PC=0023:0040aab0 Ret=004090f1 Frame=0018e2f8 Stack=0018dec8
+    Parameters (0x00010612 0x0000044d 0x00000000 0x00408a15)
+    src\eddisp.c, MyCommandHandler (), Line 3031+0011 byte(s)
+ 10 .V PC=0023:004090f1 Ret=00408a70 Frame=0018e358 Stack=0018e300
+    Parameters (0x00010612 0x00000111 0x0001044d 0x00000001)
+    src\eddisp.c, MyCommonMessageHandler (), Line 3487+0019 byte(s)
+ 11 .V PC=0023:00408a70 Ret=764b62fa Frame=0018e380 Stack=0018e360
+    Parameters (0x00010612 0x00000111 0x0001044d 0x00000001)
+    src\eddisp.c, MyTextDisplayWindowProcedure (), Line 1962+0025 byte(s)
+ 12 .V PC=0023:764b62fa Ret=764b6d3a Frame=0018e3ac Stack=0018e388
+    Parameters (0x00408a15 0x00010612 0x00000111 0x0001044d)
+    Unknown module, gapfnScSendMessage() + 0818 byte(s)
+ 13 .V PC=0023:764b6d3a Ret=764b965e Frame=0018e424 Stack=0018e3b4
+    Parameters (0x00000000 0x00408a15 0x00010612 0x00000111)
+    Unknown module, GetThreadDesktop() + 0215 byte(s)
+ 14 .V PC=0023:764b965e Ret=764c617a Frame=0018e468 Stack=0018e42c
+    Parameters (0x00d4ae20 0x00000000 0x00408a15 0x0001044d)
+    Unknown module, GetWindow() + 1008 byte(s)
+ 15 .V PC=0023:764c617a Ret=004488da Frame=0018e48c Stack=0018e470
+    Parameters (0x00010612 0x00000111 0x0001044d 0x00000001)
+    Unknown module, SendMessageA() + 0076 byte(s)
+ 16 .V PC=0023:004488da Ret=764b62fa Frame=0018e4c4 Stack=0018e494
+    Parameters (0x000305ca 0x00000111 0x0001044d 0x00000000)
+    src\edwin.c, MyEditorWindowProcedure (), Line 1454+0032 byte(s)
+ 17 .V PC=0023:764b62fa Ret=764b6d3a Frame=0018e4f0 Stack=0018e4cc
+    Parameters (0x00448681 0x000305ca 0x00000111 0x0001044d)
+    Unknown module, gapfnScSendMessage() + 0818 byte(s)
+ 18 .V PC=0023:764b6d3a Ret=764b6de8 Frame=0018e568 Stack=0018e4f8
+    Parameters (0x00000000 0x00448681 0x000305ca 0x00000111)
+    Unknown module, GetThreadDesktop() + 0215 byte(s)
+ 19 .V PC=0023:764b6de8 Ret=764b6e44 Frame=0018e5c4 Stack=0018e570
+    Parameters (0x00d3e1f0 0x00000000 0x00000111 0x0001044d)
+    Unknown module, GetThreadDesktop() + 0389 byte(s)
+ 20 .V PC=0023:764b6e44 Ret=77a9010a Frame=0018e600 Stack=0018e5cc
+    Parameters (0x0018e618 0x00000000 0x0018ff78 0x77a90070)
+    Unknown module, GetThreadDesktop() + 0481 byte(s)
+ 21 .V PC=0023:77a9010a Ret=004031d4 Frame=0018e658 Stack=0018e608
+    Parameters (0x000305ca 0x0006014b 0x0018e680 0x0018e67c)
+    Unknown module, KiUserCallbackDispatcher() + 0046 byte(s)
+ 22 .V PC=0023:004031d4 Ret=00403190 Frame=0018e670 Stack=0018e660
+    Parameters (0x0018e680 0x0018e6a8 0x00010612 0x00000100)
+    src\ed.c, MyProcessMessage (), Line 1842+0041 byte(s)
+ 23 .V PC=0023:00403190 Ret=0040170f Frame=0018e6a0 Stack=0018e678
+    Parameters (0x00000000 0x00000000 0xcccccccc 0xcccccccc)
+    src\ed.c, MyProcessEvents (), Line 1818+0009 byte(s)
+ 24 .V PC=0023:0040170f Ret=0052cc26 Frame=0018fef8 Stack=0018e6a8
+    Parameters (0x00400000 0x00000000 0x0084374c 0x00000001)
+    src\ed.c, WinMain (), Line 0470+0005 byte(s)
+ 25 .V PC=0023:0052cc26 Ret=756533aa Frame=0018ff88 Stack=0018ff00
+    Parameters (0x7efde000 0x0018ffd4 0x77ab9ef2 0x7efde000)
+    crt0.c, WinMainCRTStartup (), Line 0198+0054 byte(s)
+ 26 .V PC=0023:756533aa Ret=77ab9ef2 Frame=0018ff94 Stack=0018ff90
+    Parameters (0x7efde000 0x77a23b8e 0x00000000 0x00000000)
+    Unknown module, BaseThreadInitThunk() + 0018 byte(s)
+ 27 .V PC=0023:77ab9ef2 Ret=77ab9ec5 Frame=0018ffd4 Stack=0018ff9c
+    Parameters (0x0052cb00 0x7efde000 0x00000000 0x00000000)
+    Unknown module, RtlInitializeExceptionChain() + 0099 byte(s)
+ 28 .V PC=0023:77ab9ec5 Ret=00000000 Frame=0018ffec Stack=0018ffdc
+    Parameters (0x0052cb00 0x7efde000 0x00000000 0x78746341)
+    Unknown module, RtlInitializeExceptionChain() + 0054 byte(s)
+
+
+------------------------------------------------------
+*** ENVIRONMENT CRASH ***
+
+Date: Mar 28 2013 9:20 PM
+
+File Name: C:\Program Files (x86)\Ready to Program\Ready.exe
+Version: 1.7.1  [11]
+File Size: 2908199
+File Date: Oct 7 2003 4:57 PM
+Operating System: After Windows XP
+JVM: Ready Built-in JRE (1.4.2 or later)
+"assert" Statements: disabled
+
+
+Cause of Crash: Access Violation
+
+Previous Operations:
+    Select Line - Text: 2026370
+    Text - sz:867:25494 - slFr:184:6:8235 - slTo:184:6:8235 - nlA:0
+    Line Starts: 864:25491 865:25492 866:25493 867:25494
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 2026370 - L: 184 - C: 6 (x1)
+    Text - sz:867:25494 - slFr:184:0:8229 - slTo:185:0:8276 - nlA:0
+    Line Starts: 864:25491 865:25492 866:25493 867:25494
+  CMD: COMMAND_DEL
+    Keystroke - Text: 2026370 - Delete
+    Text - sz:867:25494 - slFr:8229 - slTo:8276 - nlA:0
+    Line Starts: 864:25491 865:25492 866:25493 867:25494
+    Delete Selection (1) - Text: 2026370
+    Text - sz:867:25494 - slFr:8229 - slTo:8276 - nlA:0
+    Line Starts: 864:25491 865:25492 866:25493 867:25494
+    Delete Selection (2) - From line: 184 - From col: 0 - To line: 185 - To col: 0
+    Delete Selection (3) - sz:866:25447 - slFr:8229 - slTo:8229 - nlA:0
+    Line Starts: 863:25444 864:25445 865:25446 866:25447
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: 2026370 - Undo: 1
+    Text - sz:866:25447 - slFr:184:0:8229 - slTo:184:0:8229 - nlA:0
+    Line Starts: 863:25444 864:25445 865:25446 866:25447
+    Undo (2) - Undo size: 47 - Repl from: 8229 - Repl to: 8229
+    Insert Text (1) - Text: 2026370 - size: 47 - clean: 1
+    Text - sz:866:25447 - slFr:184:0:8229 - slTo:184:0:8229 - nlA:0
+    Line Starts: 863:25444 864:25445 865:25446 866:25447
+    Insert Text (2) - numNewLines: 1
+    Insert Text (3) - sz:867:25494 - slFr:8276 - slTo:8276 - nlA:0
+    Line Starts: 864:25491 865:25492 866:25493 867:25494
+    Undo (3) - sz:867:25494 - slFr:8229 - slTo:8276 - nlA:0
+    Line Starts: 864:25491 865:25492 866:25493 867:25494
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: 2026370 - Undo: 1
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн "F
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннE
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннE
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн"
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннE
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннE
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннE
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннxt\Game\ProэmmHэџ 800 500 џџ"
+    Undo (3) - sz:868:25541 - slFr:8168 - slTo:8215 - nlA:0
+    Line Starts: 865:25538 866:25539 867:25540 868:25541
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: 2026370 - Undo: 1
+    Text - sz:868:25541 - slFr:182:0:8168 - slTo:183:0:8215 - nlA:0
+    Line Starts: 865:25538 866:25539 867:25540 868:25541
+    Undo (2) - Undo size: 47 - Repl from: 8107 - Repl to: 8107
+    Insert Text (1) - Text: 2026370 - size: 47 - clean: 1
+    Text - sz:868:25541 - slFr:182:0:8107 - slTo:183:0:8107 - nlA:0
+    Line Starts: 865:25538 866:25539 867:25540 868:25541
+    Insert Text (2) - numNewLines: 1
+    Insert Text (3) - sz:869:25588 - slFr:8154 - slTo:8154 - nlA:0
+    Line Starts: 866:25585 867:25586 868:25587 869:25588
+    Undo (3) - sz:869:25588 - slFr:8107 - slTo:8154 - nlA:0
+    Line Starts: 866:25585 867:25586 868:25587 869:25588
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: 2026370 - Undo: 1
+    Text - sz:869:25588 - slFr:180:0:8107 - slTo:181:0:8154 - nlA:0
+    Line Starts: 866:25585 867:25586 868:25587 869:25588
+    Undo (2) - Undo size: 47 - Repl from: 8046 - Repl to: 8046
+    Insert Text (1) - Text: 2026370 - size: 47 - clean: 1
+    Text - sz:869:25588 - slFr:180:0:8046 - slTo:181:0:8046 - nlA:0
+    Line Starts: 866:25585 867:25586 868:25587 869:25588
+    Insert Text (2) - numNewLines: 1
+    Insert Text (3) - sz:870:25635 - slFr:8093 - slTo:8093 - nlA:0
+    Line Starts: 867:25632 868:25633 869:25634 870:25635
+    Undo (3) - sz:870:25635 - slFr:8046 - slTo:8093 - nlA:0
+    Line Starts: 867:25632 868:25633 869:25634 870:25635
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: 2026370 - Undo: 1
+    Text - sz:870:25635 - slFr:178:0:8046 - slTo:179:0:8093 - nlA:0
+    Line Starts: 867:25632 868:25633 869:25634 870:25635
+    Undo (2) - Undo size: 49 - Repl from: 7924 - Repl to: 7924
+    Insert Text (1) - Text: 2026370 - size: 49 - clean: 1
+    Text - sz:870:25635 - slFr:178:0:7924 - slTo:179:0:7924 - nlA:0
+    Line Starts: 867:25632 868:25633 869:25634 870:25635
+    Insert Text (2) - numNewLines: 1
+    Insert Text (3) - sz:871:25684 - slFr:7973 - slTo:7973 - nlA:0
+    Line Starts: 868:25681 869:25682 870:25683 871:25684
+    Undo (3) - sz:871:25684 - slFr:7931 - slTo:7972 - nlA:0
+    Line Starts: 868:25681 869:25682 870:25683 871:25684
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: 2026370 - Undo: 1
+    Text - sz:871:25684 - slFr:174:8:7931 - slTo:174:49:7972 - nlA:0
+    Line Starts: 868:25681 869:25682 870:25683 871:25684
+    Undo (2) - Undo size: 47 - Repl from: 8033 - Repl to: 8033
+    Insert Text (1) - Text: 2026370 - size: 47 - clean: 1
+    Text - sz:871:25684 - slFr:174:8:8033 - slTo:174:49:8033 - nlA:0
+    Line Starts: 868:25681 869:25682 870:25683 871:25684
+    Insert Text (2) - numNewLines: 1
+    Insert Text (3) - sz:872:25731 - slFr:8080 - slTo:8080 - nlA:0
+    Line Starts: 869:25728 870:25729 871:25730 872:25731
+    Undo (3) - sz:872:25731 - slFr:8080 - slTo:8034 - nlA:0
+    Line Starts: 869:25728 870:25729 871:25730 872:25731
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: 2026370 - Undo: 1
+    Text - sz:872:25731 - slFr:177:46:8080 - slTo:177:0:8034 - nlA:0
+    Line Starts: 869:25728 870:25729 871:25730 872:25731
+    Undo (2) - Undo size: 2 - Repl from: 8512 - Repl to: 8512
+    Insert Text (1) - Text: 2026370 - size: 2 - clean: 1
+    Text - sz:872:25731 - slFr:177:46:8512 - slTo:177:0:8512 - nlA:0
+    Line Starts: 869:25728 870:25729 871:25730 872:25731
+    Insert Text (2) - numNewLines: 0
+    Insert Text (3) - sz:872:25733 - slFr:8514 - slTo:8514 - nlA:0
+    Line Starts: 869:25730 870:25731 871:25732 872:25733
+    Undo (3) - sz:872:25733 - slFr:8514 - slTo:8514 - nlA:0
+    Line Starts: 869:25730 870:25731 871:25732 872:25733
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_REDO
+    Undo (1) - Text: 2026370 - Undo: 0
+    Text - sz:872:25733 - slFr:189:48:8514 - slTo:189:48:8514 - nlA:0
+    Line Starts: 869:25730 870:25731 871:25732 872:25733
+    Undo (2) - Undo size: 0 - Repl from: 8512 - Repl to: 8514
+    Delete Selection (1) - Text: 2026370
+    Text - sz:872:25733 - slFr:189:48:8512 - slTo:189:48:8514 - nlA:0
+    Line Starts: 869:25730 870:25731 871:25732 872:25733
+    Delete Selection (2) - From line: 189 - From col: 48 - To line: 189 - To col: 48
+    Delete Selection (3) - sz:872:25731 - slFr:8512 - slTo:8512 - nlA:0
+    Line Starts: 869:25728 870:25729 871:25730 872:25731
+    Undo (3) - sz:872:25731 - slFr:8080 - slTo:8034 - nlA:0
+    Line Starts: 869:25728 870:25729 871:25730 872:25731
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_SAVE_FILE
+    Save File (1) - Window: 140620 - SaveAs: 0 - Sel: 0 - fileno: 0 - sizeptr: 0
+    Save File (2) - name: C:\Users\Zain\Desktop\Computer Science\RPG Text\Game\Programming\rpgtexttest.java - fileno: 0 - sizeptr: 0
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 2026370 - L: 176 - C: 29
+    Text - sz:872:25731 - slFr:177:46:8080 - slTo:177:0:8034 - nlA:0
+    Line Starts: 869:25728 870:25729 871:25730 872:25731
+    Set Selection (2) - sz:872:25731 - slFr:8003 - slTo:8003 - nlA:0
+    Line Starts: 869:25728 870:25729 871:25730 872:25731
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 2026370 - L: 176 - C: 29 (x1)
+    Text - sz:872:25731 - slFr:176:29:8003 - slTo:176:29:8003 - nlA:0
+    Line Starts: 869:25728 870:25729 871:25730 872:25731
+  CMD: WM_INITMENU (W)
+  CMD: WM_CLOSE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_DESTROY (W)
+  CMD: WM_DESTROY (D)
+
+
+Registers
+  EAX=002178C8  EBX=00216A60  ECX=002178C8  EDX=30303820  ESI=002178C0
+  EDI=00210000  EBP=0018E4C8  ESP=0018E4A0  EIP=77713325  FLG=00010246
+  CS=0023  DS=002B  SS=002B  ES=002B  FS=0053  GS=002B
+
+List of Modules: 
+    C:\Program Files (x86)\Ready to Program\Ready.exe
+    C:\Windows\SysWOW64\ntdll.dll
+    C:\Program Files\AVAST Software\Avast\snxhk.dll
+    C:\Windows\syswow64\KERNEL32.dll
+    C:\Windows\syswow64\KERNELBASE.dll
+    C:\Windows\syswow64\USER32.dll
+    C:\Windows\syswow64\GDI32.dll
+    C:\Windows\syswow64\LPK.dll
+    C:\Windows\syswow64\USP10.dll
+    C:\Windows\syswow64\msvcrt.dll
+    C:\Windows\syswow64\ADVAPI32.dll
+    C:\Windows\SysWOW64\sechost.dll
+    C:\Windows\syswow64\RPCRT4.dll
+    C:\Windows\syswow64\SspiCli.dll
+    C:\Windows\syswow64\CRYPTBASE.dll
+    C:\Windows\syswow64\comdlg32.dll
+    C:\Windows\syswow64\SHLWAPI.dll
+    C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.17514_none_ec83dffa859149af\COMCTL32.dll
+    C:\Windows\syswow64\SHELL32.dll
+    C:\Windows\system32\VERSION.dll
+    C:\Windows\system32\WINMM.dll
+    C:\Windows\system32\IMM32.DLL
+    C:\Windows\syswow64\MSCTF.dll
+    C:\Windows\system32\uxtheme.dll
+    C:\Program Files (x86)\Ready to Program\Support\Bin\edjdll.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\client\jvm.dll
+    C:\Windows\system32\apphelp.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\hpi.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\verify.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\java.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\zip.dll
+    C:\Windows\system32\ole32.dll
+    C:\Windows\system32\dwmapi.dll
+    C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.DLL
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\dt_shmem.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\net.dll
+    C:\Windows\syswow64\WS2_32.dll
+    C:\Windows\syswow64\NSI.dll
+    C:\Windows\system32\NLAapi.dll
+    C:\Windows\system32\napinsp.dll
+    C:\Windows\system32\pnrpnsp.dll
+    C:\Windows\System32\mswsock.dll
+    C:\Windows\system32\DNSAPI.dll
+    C:\Windows\System32\winrnr.dll
+    C:\Windows\system32\IPHLPAPI.DLL
+    C:\Windows\system32\WINNSI.DLL
+    C:\Windows\System32\fwpuclnt.dll
+    C:\Windows\system32\rasadhlp.dll
+    C:\Program Files (x86)\ASUS\AI Suite II\TurboV EVO\HookKey32.dll
+    C:\Windows\system32\dbghelp.dll
+
+  0 .V PC=0023:77713325 Ret=777135a7 Frame=0018e4c8 Stack=0018e4a0
+    Parameters (0x00000187 0x002178c0 0x0018e590 0x00000000)
+    Unknown module, RtlImageNtHeader() + 0417 byte(s)
+  1 .V PC=0023:777135a7 Ret=77713492 Frame=0018e5c0 Stack=0018e4d0
+    Parameters (0x00217698 0x002176a0 0x0018e6a8 0x0018fef8)
+    Unknown module, RtlImageNtHeader() + 1059 byte(s)
+  2 .V PC=0023:77713492 Ret=760e14dd Frame=0018e5e0 Stack=0018e5c8
+    Parameters (0x00210000 0x00000000 0x002176a0 0x0018e63c)
+    Unknown module, RtlImageNtHeader() + 0782 byte(s)
+  3 .V PC=0023:760e14dd Ret=00530995 Frame=0018e5f4 Stack=0018e5e8
+    Parameters (0x00210000 0x00000000 0x002176a0 0x0018fef8)
+    Unknown module, HeapFree() + 0020 byte(s)
+  4 .V PC=0023:00530995 Ret=00526037 Frame=0018e63c Stack=0018e5fc
+    Parameters (0x002176a0 0x0018fef8 0x0018e6a8 0x7efde000)
+    free.c, _free_base (), Line 0096+0000 byte(s)
+  5 .V PC=0023:00526037 Ret=00525c51 Frame=0018e658 Stack=0018e644
+    Parameters (0x002176c0 0x00000001 0x0018fef8 0x0018e6a8)
+    dbgheap.c, _free_dbg_lk (), Line 1116+0009 byte(s)
+  6 .V PC=0023:00525c51 Ret=00414d57 Frame=0018e68c Stack=0018e660
+    Parameters (0x002176c0 0x00000001 0x00000008 0x0018fef8)
+    dbgheap.c, _free_dbg (), Line 1001+0013 byte(s)
+  7 .V PC=0023:00414d57 Ret=0040172b Frame=0018e6a0 Stack=0018e694
+    Parameters (0x00000000 0x00000000 0xcccccccc 0xcccccccc)
+    src\edfail.c, EdFail_Finalize (), Line 0157+0018 byte(s)
+  8 .V PC=0023:0040172b Ret=0052cc26 Frame=0018fef8 Stack=0018e6a8
+    Parameters (0x00400000 0x00000000 0x0030374c 0x00000001)
+    src\ed.c, WinMain (), Line 0486+0000 byte(s)
+  9 .V PC=0023:0052cc26 Ret=760e33aa Frame=0018ff88 Stack=0018ff00
+    Parameters (0x7efde000 0x0018ffd4 0x77719ef2 0x7efde000)
+    crt0.c, WinMainCRTStartup (), Line 0198+0054 byte(s)
+ 10 .V PC=0023:760e33aa Ret=77719ef2 Frame=0018ff94 Stack=0018ff90
+    Parameters (0x7efde000 0x77542019 0x00000000 0x00000000)
+    Unknown module, BaseThreadInitThunk() + 0018 byte(s)
+ 11 .V PC=0023:77719ef2 Ret=77719ec5 Frame=0018ffd4 Stack=0018ff9c
+    Parameters (0x0052cb00 0x7efde000 0x00000000 0x00000000)
+    Unknown module, RtlInitializeExceptionChain() + 0099 byte(s)
+ 12 .V PC=0023:77719ec5 Ret=00000000 Frame=0018ffec Stack=0018ffdc
+    Parameters (0x0052cb00 0x7efde000 0x00000000 0x78746341)
+    Unknown module, RtlInitializeExceptionChain() + 0054 byte(s)
+
+------------------------------------------------------
+*** ENVIRONMENT CRASH ***
+
+Date: Mar 28 2013 9:24 PM
+
+File Name: C:\Program Files (x86)\Ready to Program\Ready.exe
+Version: 1.7.1  [11]
+File Size: 2908199
+File Date: Oct 7 2003 4:57 PM
+Operating System: After Windows XP
+JVM: Ready Built-in JRE (1.4.2 or later)
+"assert" Statements: disabled
+
+
+Cause of Crash: Access Violation
+
+Previous Operations:
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн "F
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннE
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннE
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн"
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннE
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннE
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннE
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннxt\Game\ProЦHmmhj(
+    JavaSup: -pipe 276 288 200 2033606
+    JavaSup: JVM Option: "-Djava.class.path=.;C:\Program Files (x86)\Ready to Program\Support\Ready Classes;C:\Program Files (x86)\Ready to Program\Support\Classes;C:\Program Files (x86)\Ready to Program\Support\Ready Classes\tools.jar;"
+    JavaSup: JVM Option: "-Djava.library.path=C:\Program Files (x86)\Ready to Program\Support\Bin"
+    JavaSup: JVM Option: "-enableassertions"
+    JavaSup: JVM Option: "-Xdebug"
+    JavaSup: JVM Option: "-Xrunjdwp:transport=dt_shmem,address=readyshmem,server=y,suspend=n"
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_CLOSE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_DESTROY (W)
+  CMD: WM_DESTROY (D)
+
+
+Registers
+  EAX=00288390  EBX=00286DF8  ECX=00288390  EDX=30303820  ESI=00288388
+  EDI=00280000  EBP=0018E4C8  ESP=0018E4A0  EIP=77713325  FLG=00010246
+  CS=0023  DS=002B  SS=002B  ES=002B  FS=0053  GS=002B
+
+List of Modules: 
+    C:\Program Files (x86)\Ready to Program\Ready.exe
+    C:\Windows\SysWOW64\ntdll.dll
+    C:\Program Files\AVAST Software\Avast\snxhk.dll
+    C:\Windows\syswow64\KERNEL32.dll
+    C:\Windows\syswow64\KERNELBASE.dll
+    C:\Windows\syswow64\USER32.dll
+    C:\Windows\syswow64\GDI32.dll
+    C:\Windows\syswow64\LPK.dll
+    C:\Windows\syswow64\USP10.dll
+    C:\Windows\syswow64\msvcrt.dll
+    C:\Windows\syswow64\ADVAPI32.dll
+    C:\Windows\SysWOW64\sechost.dll
+    C:\Windows\syswow64\RPCRT4.dll
+    C:\Windows\syswow64\SspiCli.dll
+    C:\Windows\syswow64\CRYPTBASE.dll
+    C:\Windows\syswow64\comdlg32.dll
+    C:\Windows\syswow64\SHLWAPI.dll
+    C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.17514_none_ec83dffa859149af\COMCTL32.dll
+    C:\Windows\syswow64\SHELL32.dll
+    C:\Windows\system32\VERSION.dll
+    C:\Windows\system32\WINMM.dll
+    C:\Windows\system32\IMM32.DLL
+    C:\Windows\syswow64\MSCTF.dll
+    C:\Windows\system32\uxtheme.dll
+    C:\Program Files (x86)\Ready to Program\Support\Bin\edjdll.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\client\jvm.dll
+    C:\Windows\system32\apphelp.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\hpi.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\verify.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\java.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\zip.dll
+    C:\Windows\system32\ole32.dll
+    C:\Windows\system32\dwmapi.dll
+    C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.DLL
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\dt_shmem.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\net.dll
+    C:\Windows\syswow64\WS2_32.dll
+    C:\Windows\syswow64\NSI.dll
+    C:\Windows\system32\NLAapi.dll
+    C:\Windows\system32\napinsp.dll
+    C:\Windows\system32\pnrpnsp.dll
+    C:\Windows\System32\mswsock.dll
+    C:\Windows\system32\DNSAPI.dll
+    C:\Windows\System32\winrnr.dll
+    C:\Windows\system32\IPHLPAPI.DLL
+    C:\Windows\system32\WINNSI.DLL
+    C:\Windows\System32\fwpuclnt.dll
+    C:\Windows\system32\rasadhlp.dll
+    C:\Windows\system32\dbghelp.dll
+
+  0 .V PC=0023:77713325 Ret=777135a7 Frame=0018e4c8 Stack=0018e4a0
+    Parameters (0x0000026d 0x00288388 0x0018e590 0x00000000)
+    Unknown module, RtlImageNtHeader() + 0417 byte(s)
+  1 .V PC=0023:777135a7 Ret=77713492 Frame=0018e5c0 Stack=0018e4d0
+    Parameters (0x00288160 0x00288168 0x0018e6a8 0x0018fef8)
+    Unknown module, RtlImageNtHeader() + 1059 byte(s)
+  2 .V PC=0023:77713492 Ret=760e14dd Frame=0018e5e0 Stack=0018e5c8
+    Parameters (0x00280000 0x00000000 0x00288168 0x0018e63c)
+    Unknown module, RtlImageNtHeader() + 0782 byte(s)
+  3 .V PC=0023:760e14dd Ret=00530995 Frame=0018e5f4 Stack=0018e5e8
+    Parameters (0x00280000 0x00000000 0x00288168 0x0018fef8)
+    Unknown module, HeapFree() + 0020 byte(s)
+  4 .V PC=0023:00530995 Ret=00526037 Frame=0018e63c Stack=0018e5fc
+    Parameters (0x00288168 0x0018fef8 0x0018e6a8 0x7efde000)
+    free.c, _free_base (), Line 0096+0000 byte(s)
+  5 .V PC=0023:00526037 Ret=00525c51 Frame=0018e658 Stack=0018e644
+    Parameters (0x00288188 0x00000001 0x0018fef8 0x0018e6a8)
+    dbgheap.c, _free_dbg_lk (), Line 1116+0009 byte(s)
+  6 .V PC=0023:00525c51 Ret=00414d57 Frame=0018e68c Stack=0018e660
+    Parameters (0x00288188 0x00000001 0x0000000d 0x0018fef8)
+    dbgheap.c, _free_dbg (), Line 1001+0013 byte(s)
+  7 .V PC=0023:00414d57 Ret=0040172b Frame=0018e6a0 Stack=0018e694
+    Parameters (0x00000000 0x00000000 0xcccccccc 0xcccccccc)
+    src\edfail.c, EdFail_Finalize (), Line 0157+0018 byte(s)
+  8 .V PC=0023:0040172b Ret=0052cc26 Frame=0018fef8 Stack=0018e6a8
+    Parameters (0x00400000 0x00000000 0x002a374c 0x00000001)
+    src\ed.c, WinMain (), Line 0486+0000 byte(s)
+  9 .V PC=0023:0052cc26 Ret=760e33aa Frame=0018ff88 Stack=0018ff00
+    Parameters (0x7efde000 0x0018ffd4 0x77719ef2 0x7efde000)
+    crt0.c, WinMainCRTStartup (), Line 0198+0054 byte(s)
+ 10 .V PC=0023:760e33aa Ret=77719ef2 Frame=0018ff94 Stack=0018ff90
+    Parameters (0x7efde000 0x775b5e6d 0x00000000 0x00000000)
+    Unknown module, BaseThreadInitThunk() + 0018 byte(s)
+ 11 .V PC=0023:77719ef2 Ret=77719ec5 Frame=0018ffd4 Stack=0018ff9c
+    Parameters (0x0052cb00 0x7efde000 0x00000000 0x00000000)
+    Unknown module, RtlInitializeExceptionChain() + 0099 byte(s)
+ 12 .V PC=0023:77719ec5 Ret=00000000 Frame=0018ffec Stack=0018ffdc
+    Parameters (0x0052cb00 0x7efde000 0x00000000 0x78746341)
+    Unknown module, RtlInitializeExceptionChain() + 0054 byte(s)
+
+------------------------------------------------------
+*** ENVIRONMENT CRASH ***
+
+Date: Mar 28 2013 9:25 PM
+
+File Name: C:\Program Files (x86)\Ready to Program\Ready.exe
+Version: 1.7.1  [11]
+File Size: 2908199
+File Date: Oct 7 2003 4:57 PM
+Operating System: After Windows XP
+JVM: Ready Built-in JRE (1.4.2 or later)
+"assert" Statements: disabled
+
+
+Cause of Crash: Breakpoint Reached
+
+Previous Operations:
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн "F
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннE
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннE
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн"
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннE
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннE
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннE
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    Command to Java Supervisor - "-java "C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\client\jvm.dll" -cp ".;C:\Program Files (x86)\Ready to Program\Support\Ready Classes;C:\Program Files (x86)\Ready to Program\Support\Classes;C:\Program Files (x86)\Ready to Program\Support\Ready Classes\tools.jar;" -class rpgtexttest -props F 25 80 10 "Courier New" 2 F 0 F 8 8 0 F T -applet "C:\Users\Zain\Desktop\Computer Science\RPG Text\Game\Programming" "C:\Users\Zain\Desktop\Computer Science\RPG Text\Game\Programming" 800 500 џџ"
+    JavaSup: -pipe 272 288 200 4391144
+    JavaSup: JVM Option: "-Djava.class.path=.;C:\Program Files (x86)\Ready to Program\Support\Ready Classes;C:\Program Files (x86)\Ready to Program\Support\Classes;C:\Program Files (x86)\Ready to Program\Support\Ready Classes\tools.jar;"
+    JavaSup: JVM Option: "-Djava.library.path=C:\Program Files (x86)\Ready to Program\Support\Bin"
+    JavaSup: JVM Option: "-enableassertions"
+    JavaSup: JVM Option: "-Xdebug"
+    JavaSup: JVM Option: "-Xrunjdwp:transport=dt_shmem,address=readyshmem,server=y,suspend=n"
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_CLOSE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_DESTROY (W)
+  CMD: WM_DESTROY (D)
+
+
+Registers
+  EAX=00000001  EBX=7EFDE000  ECX=0000002F  EDX=0000002E  ESI=0018E6A8
+  EDI=0018FEF8  EBP=0018E658  ESP=0018E648  EIP=00525E7F  FLG=00000246
+  CS=0023  DS=002B  SS=002B  ES=002B  FS=0053  GS=002B
+
+List of Modules: 
+    C:\Program Files (x86)\Ready to Program\Ready.exe
+    C:\Windows\SysWOW64\ntdll.dll
+    C:\Program Files\AVAST Software\Avast\snxhk.dll
+    C:\Windows\syswow64\KERNEL32.dll
+    C:\Windows\syswow64\KERNELBASE.dll
+    C:\Windows\syswow64\USER32.dll
+    C:\Windows\syswow64\GDI32.dll
+    C:\Windows\syswow64\LPK.dll
+    C:\Windows\syswow64\USP10.dll
+    C:\Windows\syswow64\msvcrt.dll
+    C:\Windows\syswow64\ADVAPI32.dll
+    C:\Windows\SysWOW64\sechost.dll
+    C:\Windows\syswow64\RPCRT4.dll
+    C:\Windows\syswow64\SspiCli.dll
+    C:\Windows\syswow64\CRYPTBASE.dll
+    C:\Windows\syswow64\comdlg32.dll
+    C:\Windows\syswow64\SHLWAPI.dll
+    C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.17514_none_ec83dffa859149af\COMCTL32.dll
+    C:\Windows\syswow64\SHELL32.dll
+    C:\Windows\system32\VERSION.dll
+    C:\Windows\system32\WINMM.dll
+    C:\Windows\system32\IMM32.DLL
+    C:\Windows\syswow64\MSCTF.dll
+    C:\Windows\system32\uxtheme.dll
+    C:\Program Files (x86)\Ready to Program\Support\Bin\edjdll.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\client\jvm.dll
+    C:\Windows\system32\apphelp.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\hpi.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\verify.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\java.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\zip.dll
+    C:\Windows\system32\ole32.dll
+    C:\Windows\system32\dwmapi.dll
+    C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.DLL
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\dt_shmem.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\net.dll
+    C:\Windows\syswow64\WS2_32.dll
+    C:\Windows\syswow64\NSI.dll
+    C:\Windows\system32\NLAapi.dll
+    C:\Windows\system32\napinsp.dll
+    C:\Windows\system32\pnrpnsp.dll
+    C:\Windows\System32\mswsock.dll
+    C:\Windows\system32\DNSAPI.dll
+    C:\Windows\System32\winrnr.dll
+    C:\Windows\system32\IPHLPAPI.DLL
+    C:\Windows\system32\WINNSI.DLL
+    C:\Windows\System32\fwpuclnt.dll
+    C:\Windows\system32\rasadhlp.dll
+    C:\Windows\system32\dbghelp.dll
+
+  0 .V PC=0023:00525e7f Ret=00525c51 Frame=0018e658 Stack=0018e648
+    Parameters (0x00288188 0x00000001 0x0018fef8 0x0018e6a8)
+    dbgheap.c, _free_dbg_lk (), Line 1066+0060 byte(s)
+  1 .V PC=0023:00525c51 Ret=00414d57 Frame=0018e68c Stack=0018e660
+    Parameters (0x00288188 0x00000001 0x0000000d 0x0018fef8)
+    dbgheap.c, _free_dbg (), Line 1001+0013 byte(s)
+  2 .V PC=0023:00414d57 Ret=0040172b Frame=0018e6a0 Stack=0018e694
+    Parameters (0x00000000 0x00000000 0xcccccccc 0xcccccccc)
+    src\edfail.c, EdFail_Finalize (), Line 0157+0018 byte(s)
+  3 .V PC=0023:0040172b Ret=0052cc26 Frame=0018fef8 Stack=0018e6a8
+    Parameters (0x00400000 0x00000000 0x007e374c 0x00000001)
+    src\ed.c, WinMain (), Line 0486+0000 byte(s)
+  4 .V PC=0023:0052cc26 Ret=760e33aa Frame=0018ff88 Stack=0018ff00
+    Parameters (0x7efde000 0x0018ffd4 0x77719ef2 0x7efde000)
+    crt0.c, WinMainCRTStartup (), Line 0198+0054 byte(s)
+  5 .V PC=0023:760e33aa Ret=77719ef2 Frame=0018ff94 Stack=0018ff90
+    Parameters (0x7efde000 0x775b1a58 0x00000000 0x00000000)
+    Unknown module, BaseThreadInitThunk() + 0018 byte(s)
+  6 .V PC=0023:77719ef2 Ret=77719ec5 Frame=0018ffd4 Stack=0018ff9c
+    Parameters (0x0052cb00 0x7efde000 0x00000000 0x00000000)
+    Unknown module, RtlInitializeExceptionChain() + 0099 byte(s)
+  7 .V PC=0023:77719ec5 Ret=00000000 Frame=0018ffec Stack=0018ffdc
+    Parameters (0x0052cb00 0x7efde000 0x00000000 0x78746341)
+    Unknown module, RtlInitializeExceptionChain() + 0054 byte(s)
+
+------------------------------------------------------
+*** ENVIRONMENT CRASH ***
+
+Date: Mar 29 2013 12:34 PM
+
+File Name: C:\Program Files (x86)\Ready to Program\Ready.exe
+Version: 1.7.1  [11]
+File Size: 2908199
+File Date: Oct 7 2003 4:57 PM
+Operating System: After Windows XP
+JVM: Ready Built-in JRE (1.4.2 or later)
+"assert" Statements: disabled
+
+
+Cause of Crash: Access Violation
+
+Previous Operations:
+    Set Selection (1) - Text: 1fc4ea0 - L: 1076 - C: 86
+    Text - sz:1116:38037 - slFr:1077:77:36194 - slTo:1077:77:36194 - nlA:0
+    Line Starts: 1113:38034 1114:38035 1115:38036 1116:38037
+    Set Selection (2) - sz:1116:38037 - slFr:36097 - slTo:36097 - nlA:0
+    Line Starts: 1113:38034 1114:38035 1115:38036 1116:38037
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 1fc4ea0 - L: 1076 - C: 86 (x1)
+    Text - sz:1116:38037 - slFr:1076:86:36097 - slTo:1076:86:36097 - nlA:0
+    Line Starts: 1113:38034 1114:38035 1115:38036 1116:38037
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_SAVE_FILE
+    Save File (1) - Window: 10648 - SaveAs: 0 - Sel: 0 - fileno: 0 - sizeptr: 0
+    Save File (2) - name: C:\Users\Zain\Desktop\Computer Science PC\RPG Text\Game\Programming\rpgtexttest.java - fileno: 0 - sizeptr: 0
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 1fc4ea0 - L: 1073 - C: 16
+    Text - sz:1116:38037 - slFr:1076:86:36097 - slTo:1076:86:36097 - nlA:0
+    Line Starts: 1113:38034 1114:38035 1115:38036 1116:38037
+    Set Selection (2) - sz:1116:38037 - slFr:35894 - slTo:35894 - nlA:0
+    Line Starts: 1113:38034 1114:38035 1115:38036 1116:38037
+    Extend Selection - Text: 1fc4ea0 - L: 1079 - C: 19 (x46)
+    Text - sz:1116:38037 - slFr:35894 - slTo:36310 - nlA:0
+    Line Starts: 1113:38034 1114:38035 1115:38036 1116:38037
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 1fc4ea0 - L: 1079 - C: 19 (x1)
+    Text - sz:1116:38037 - slFr:35894 - slTo:36310 - nlA:0
+    Line Starts: 1113:38034 1114:38035 1115:38036 1116:38037
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_COPY
+    Cut/Copy (1) - Window: 10648 - Cut: 0
+    Cut/Copy (2) - from:1073:16:35894 - to:1079:17:36310 - lines:7 - nla: 1116
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 1fc4ea0 - L: 1079 - C: 18
+    Text - sz:1116:38037 - slFr:1073:16:35894 - slTo:1079:17:36310 - nlA:0
+    Line Starts: 1113:38034 1114:38035 1115:38036 1116:38037
+    Set Selection (2) - sz:1116:38037 - slFr:36310 - slTo:36310 - nlA:0
+    Line Starts: 1113:38034 1114:38035 1115:38036 1116:38037
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 1fc4ea0 - L: 1079 - C: 18 (x1)
+    Text - sz:1116:38037 - slFr:1079:17:36310 - slTo:1079:17:36310 - nlA:0
+    Line Starts: 1113:38034 1114:38035 1115:38036 1116:38037
+  CMD: WM_CHAR [#13] (D)
+    Keystroke - Text: 1fc4ea0 - ch: 13
+    Text - sz:1116:38037 - slFr:36310 - slTo:36310 - nlA:0
+    Line Starts: 1113:38034 1114:38035 1115:38036 1116:38037
+    Keystroke (2) - sz:1117:38054 - slFr:36327 - slTo:36327 - nlA:0
+    Line Starts: 1114:38051 1115:38052 1116:38053 1117:38054
+  CMD: WM_CHAR [#13] (D)
+    Keystroke - Text: 1fc4ea0 - ch: 13
+    Text - sz:1117:38054 - slFr:1080:16:36327 - slTo:1080:16:36327 - nlA:0
+    Line Starts: 1114:38051 1115:38052 1116:38053 1117:38054
+    Keystroke (2) - sz:1118:38071 - slFr:36344 - slTo:36344 - nlA:0
+    Line Starts: 1115:38068 1116:38069 1117:38070 1118:38071
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_PASTE
+    Paste (1) - Window: 10648 - SelLen: 0
+    Insert Text (1) - Text: 1fc4ea0 - size: 422 - clean: 0
+    Text - sz:1118:38071 - slFr:1081:16:36344 - slTo:1081:16:36344 - nlA:0
+    Line Starts: 1115:38068 1116:38069 1117:38070 1118:38071
+    Insert Text (2) - numNewLines: 6
+    Insert Text (3) - sz:1124:38487 - slFr:36760 - slTo:36760 - nlA:0
+    Line Starts: 1121:38484 1122:38485 1123:38486 1124:38487
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 1fc4ea0 - L: 1081 - C: 17
+    Text - sz:1124:38487 - slFr:1087:17:36760 - slTo:1087:17:36760 - nlA:0
+    Line Starts: 1121:38484 1122:38485 1123:38486 1124:38487
+    Set Selection (2) - sz:1124:38487 - slFr:36345 - slTo:36345 - nlA:0
+    Line Starts: 1121:38484 1122:38485 1123:38486 1124:38487
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 1fc4ea0 - L: 1081 - C: 17 (x1)
+    Text - sz:1124:38487 - slFr:1081:17:36345 - slTo:1081:17:36345 - nlA:0
+    Line Starts: 1121:38484 1122:38485 1123:38486 1124:38487
+  CMD: COMMAND_MOVE/SELECT_COLUMN_LEFT
+    Move Column Left - Text: 1fc4ea0 - Select: 0
+    Text - sz:1124:38487 - slFr:36345 - slTo:36345 - nlA:0
+    Line Starts: 1121:38484 1122:38485 1123:38486 1124:38487
+  CMD: WM_CHAR [ ] (D) (x5) [else ]
+    Keystroke - Text: 1fc4ea0 - ch: 32
+    Text - sz:1124:38491 - slFr:1081:20:36348 - slTo:1081:20:36348 - nlA:0
+    Line Starts: 1121:38488 1122:38489 1123:38490 1124:38491
+    Keystroke (2) - sz:1124:38492 - slFr:36349 - slTo:36349 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 1fc4ea0 - L: 1081 - C: 83
+    Text - sz:1124:38492 - slFr:1081:21:36349 - slTo:1081:21:36349 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+    Set Selection (2) - sz:1124:38492 - slFr:36411 - slTo:36411 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+    Extend Selection - Text: 1fc4ea0 - L: 1081 - C: 84 (x4)
+    Text - sz:1124:38492 - slFr:1081:83:36411 - slTo:1081:84:36412 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 1fc4ea0 - L: 1081 - C: 84 (x1)
+    Text - sz:1124:38492 - slFr:36411 - slTo:36412 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+  CMD: WM_CHAR [3] (D) (x1) [3]
+    Keystroke - Text: 1fc4ea0 - ch: 51
+    Text - sz:1124:38492 - slFr:36411 - slTo:36412 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+    Delete Selection (1) - Text: 1fc4ea0
+    Text - sz:1124:38492 - slFr:1081:83:36411 - slTo:1081:84:36412 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+    Delete Selection (2) - From line: 1081 - From col: 83 - To line: 1081 - To col: 84
+    Delete Selection (3) - sz:1124:38491 - slFr:36411 - slTo:36411 - nlA:0
+    Line Starts: 1121:38488 1122:38489 1123:38490 1124:38491
+    Keystroke (2) - sz:1124:38492 - slFr:36412 - slTo:36412 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 1fc4ea0 - L: 1085 - C: 76
+    Text - sz:1124:38492 - slFr:1081:84:36412 - slTo:1081:84:36412 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+    Set Selection (2) - sz:1124:38492 - slFr:36648 - slTo:36648 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+    Extend Selection - Text: 1fc4ea0 - L: 1085 - C: 77 (x4)
+    Text - sz:1124:38492 - slFr:36648 - slTo:36649 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 1fc4ea0 - L: 1085 - C: 77 (x1)
+    Text - sz:1124:38492 - slFr:36648 - slTo:36649 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+  CMD: WM_CHAR [4] (D) (x1) [4]
+    Keystroke - Text: 1fc4ea0 - ch: 52
+    Text - sz:1124:38492 - slFr:36648 - slTo:36649 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+    Delete Selection (1) - Text: 1fc4ea0
+    Text - sz:1124:38492 - slFr:1085:76:36648 - slTo:1085:77:36649 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+    Delete Selection (2) - From line: 1085 - From col: 76 - To line: 1085 - To col: 77
+    Delete Selection (3) - sz:1124:38491 - slFr:36648 - slTo:36648 - nlA:0
+    Line Starts: 1121:38488 1122:38489 1123:38490 1124:38491
+    Keystroke (2) - sz:1124:38492 - slFr:36649 - slTo:36649 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 1fc4ea0 - L: 1084 - C: 76
+    Text - sz:1124:38492 - slFr:1085:77:36649 - slTo:1085:77:36649 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+    Set Selection (2) - sz:1124:38492 - slFr:36542 - slTo:36542 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 1fc4ea0 - L: 1084 - C: 76 (x1)
+    Text - sz:1124:38492 - slFr:1084:76:36542 - slTo:1084:76:36542 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_SAVE_FILE
+    Save File (1) - Window: 10648 - SaveAs: 0 - Sel: 0 - fileno: 0 - sizeptr: 0
+    Save File (2) - name: C:\Users\Zain\Desktop\Computer Science PC\RPG Text\Game\Programming\rpgtexttest.java - fileno: 0 - sizeptr: 0
+  CMD: WM_SETFOCUS (W)
+  CMD: COMMAND_STOP
+  CMD: WM_SETFOCUS (W)
+  CMD: COMMAND_RUN
+    Run (1) - Window: 10648 - Ex: 1 - Args: 0 - Step: 0
+
+
+Registers
+  EAX=00001A8C  EBX=02019EB8  ECX=003E0000  EDX=02019EB8  ESI=3EF154A5
+  EDI=02019EB0  EBP=0018A0D8  ESP=0018A0A4  EIP=77E7E3BE  FLG=00010206
+  CS=0023  DS=002B  SS=002B  ES=002B  FS=0053  GS=002B
+
+List of Modules: 
+    C:\Program Files (x86)\Ready to Program\Ready.exe
+    C:\Windows\SysWOW64\ntdll.dll
+    C:\Program Files\AVAST Software\Avast\snxhk.dll
+    C:\Windows\syswow64\KERNEL32.dll
+    C:\Windows\syswow64\KERNELBASE.dll
+    C:\Windows\syswow64\USER32.dll
+    C:\Windows\syswow64\GDI32.dll
+    C:\Windows\syswow64\LPK.dll
+    C:\Windows\syswow64\USP10.dll
+    C:\Windows\syswow64\msvcrt.dll
+    C:\Windows\syswow64\ADVAPI32.dll
+    C:\Windows\SysWOW64\sechost.dll
+    C:\Windows\syswow64\RPCRT4.dll
+    C:\Windows\syswow64\SspiCli.dll
+    C:\Windows\syswow64\CRYPTBASE.dll
+    C:\Windows\syswow64\comdlg32.dll
+    C:\Windows\syswow64\SHLWAPI.dll
+    C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.17514_none_ec83dffa859149af\COMCTL32.dll
+    C:\Windows\syswow64\SHELL32.dll
+    C:\Windows\system32\VERSION.dll
+    C:\Windows\system32\WINMM.dll
+    C:\Windows\system32\IMM32.DLL
+    C:\Windows\syswow64\MSCTF.dll
+    C:\Windows\system32\uxtheme.dll
+    C:\Program Files (x86)\Ready to Program\Support\Bin\edjdll.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\client\jvm.dll
+    C:\Windows\system32\apphelp.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\hpi.dll
+    C:\Windows\system32\ole32.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\verify.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\java.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\zip.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\dt_shmem.dll
+    C:\Windows\system32\dwmapi.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\net.dll
+    C:\Windows\syswow64\WS2_32.dll
+    C:\Windows\syswow64\NSI.dll
+    C:\Windows\system32\NLAapi.dll
+    C:\Windows\system32\napinsp.dll
+    C:\Windows\system32\pnrpnsp.dll
+    C:\Windows\System32\mswsock.dll
+    C:\Windows\system32\DNSAPI.dll
+    C:\Windows\System32\winrnr.dll
+    C:\Windows\system32\IPHLPAPI.DLL
+    C:\Windows\system32\WINNSI.DLL
+    C:\Windows\System32\fwpuclnt.dll
+    C:\Windows\system32\rasadhlp.dll
+    C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.DLL
+    C:\Program Files (x86)\ASUS\AI Suite II\TurboV EVO\HookKey32.dll
+    C:\Windows\system32\dbghelp.dll
+
+  0 .V PC=0023:77e7e3be Ret=77e7e023 Frame=0018a0d8 Stack=0018a0a4
+    Parameters (0x00000011 0x0018a3a0 0x00000000 0x02019eb0)
+    Unknown module, RtlInitUnicodeString() + 0406 byte(s)
+  1 .V PC=0023:77e7e023 Ret=759e14dd Frame=0018a0f0 Stack=0018a0e0
+    Parameters (0x003e0000 0x00000000 0x02019eb8 0x0018a14c)
+    Unknown module, RtlFreeHeap() + 0126 byte(s)
+  2 .V PC=0023:759e14dd Ret=00530995 Frame=0018a104 Stack=0018a0f8
+    Parameters (0x003e0000 0x00000000 0x02019eb8 0x0018a3a0)
+    Unknown module, HeapFree() + 0020 byte(s)
+  3 .V PC=0023:00530995 Ret=00526037 Frame=0018a14c Stack=0018a10c
+    Parameters (0x02019eb8 0x0018a3a0 0x00000011 0x00000000)
+    free.c, _free_base (), Line 0096+0000 byte(s)
+  4 .V PC=0023:00526037 Ret=00525c51 Frame=0018a168 Stack=0018a154
+    Parameters (0x02019ed8 0x00000001 0x0018a3a0 0x00000011)
+    dbgheap.c, _free_dbg_lk (), Line 1116+0009 byte(s)
+  5 .V PC=0023:00525c51 Ret=005288fd Frame=0018a19c Stack=0018a170
+    Parameters (0x02019ed8 0x00000001 0x0018a3a0 0x00000011)
+    dbgheap.c, _free_dbg (), Line 1001+0013 byte(s)
+  6 .V PC=0023:005288fd Ret=004dd5e1 Frame=0018a1bc Stack=0018a1a4
+    Parameters (0x02019ed8 0x0018a418 0x0018a434 0xcccccccc)
+    dbgdel.cpp, operator delete (), Line 0049+0016 byte(s)
+  7 .V PC=0023:004dd5e1 Ret=004daf41 Frame=0018a3ac Stack=0018a1c4
+    Parameters (0x0852d6d8 0x06ac2b75 0x000009b1 0x00001399)
+    src_jikes\getclass.cpp, Semantic::ProcessClassFile (), Line 1246+0021 byte(s)
+  8 .V PC=0023:004daf41 Ret=004da567 Frame=0018a424 Stack=0018a3b4
+    Parameters (0x0852d6d8 0x00001399 0x0018a4f4 0x0018a69c)
+    src_jikes\getclass.cpp, Semantic::ReadClassFile (), Line 0427+0032 byte(s)
+  9 .V PC=0023:004da567 Ret=00510f26 Frame=0018a480 Stack=0018a42c
+    Parameters (0x08ca70d8 0x07c247f8 0x00001399 0xcccccccc)
+    src_jikes\getclass.cpp, Semantic::ProcessNestedType (), Line 0104+0000 byte(s)
+ 10 .V PC=0023:00510f26 Ret=004a1509 Frame=0018a4b0 Stack=0018a488
+    Parameters (0x01fc6fa0 0x00001399 0x0018a544 0x07c20e38)
+    src_jikes\symbol.cpp, TypeSymbol::ProcessNestedTypeSignatures (), Line 1176+0000 byte(s)
+ 11 .V PC=0023:004a1509 Ret=004a149f Frame=0018a500 Stack=0018a4b8
+    Parameters (0x08ca70d8 0x00001399 0x0018a594 0x07c20de0)
+    src_jikes\decl.cpp, Semantic::ComputeTypesClosure (), Line 3377+0000 byte(s)
+ 12 .V PC=0023:004a149f Ret=004a149f Frame=0018a550 Stack=0018a508
+    Parameters (0x08ca77c8 0x00001399 0x0018a5e4 0x07c20d88)
+    src_jikes\decl.cpp, Semantic::ComputeTypesClosure (), Line 3368+0000 byte(s)
+ 13 .V PC=0023:004a149f Ret=004a149f Frame=0018a5a0 Stack=0018a558
+    Parameters (0x0852c6a8 0x00001399 0x0018a634 0x07c20d30)
+    src_jikes\decl.cpp, Semantic::ComputeTypesClosure (), Line 3368+0000 byte(s)
+ 14 .V PC=0023:004a149f Ret=004a149f Frame=0018a5f0 Stack=0018a5a8
+    Parameters (0x0852c580 0x00001399 0x0018a690 0x07c20cd8)
+    src_jikes\decl.cpp, Semantic::ComputeTypesClosure (), Line 3368+0000 byte(s)
+ 15 .V PC=0023:004a149f Ret=004a2809 Frame=0018a640 Stack=0018a5f8
+    Parameters (0x08ca6d60 0x00001399 0x0018a6dc 0x0018a69c)
+    src_jikes\decl.cpp, Semantic::ComputeTypesClosure (), Line 3368+0000 byte(s)
+ 16 .V PC=0023:004a2809 Ret=004a2cbb Frame=0018a690 Stack=0018a648
+    Parameters (0x00001399 0x0018a72c 0x0018a73c 0xcccccccc)
+    src_jikes\decl.cpp, Semantic::FindType (), Line 3851+0000 byte(s)
+ 17 .V PC=0023:004a2cbb Ret=004a1a97 Frame=0018a6dc Stack=0018a698
+    Parameters (0x07de834c 0x0018a7d4 0x0018a73c 0xcccccccc)
+    src_jikes\decl.cpp, Semantic::MustFindType (), Line 4005+0012 byte(s)
+ 18 .V PC=0023:004a1a97 Ret=004a2002 Frame=0018a72c Stack=0018a6e4
+    Parameters (0x07c761c8 0x07de83b4 0x0018a838 0x0018aae8)
+    src_jikes\decl.cpp, Semantic::ProcessFormalParameters (), Line 3496+0035 byte(s)
+ 19 .V PC=0023:004a2002 Ret=004a3f2c Frame=0018a7e0 Stack=0018a734
+    Parameters (0x07de83fc 0x01fc6fa0 0x00000001 0x0018a838)
+    src_jikes\decl.cpp, Semantic::ProcessMethodDeclaration (), Line 3618+0000 byte(s)
+ 20 .V PC=0023:004a3f2c Ret=0049c9b4 Frame=0018a7f4 Stack=0018a7e8
+    Parameters (0x07de9db4 0x0018a8e0 0x0018aae8 0xcccccccc)
+    src_jikes\decl.cpp, Semantic::ProcessMethodMembers (), Line 1159+0023 byte(s)
+ 21 .V PC=0023:0049c9b4 Ret=0050dab3 Frame=0018a838 Stack=0018a7fc
+    Parameters (0x08438010 0x07de9db4 0x08ca6d60 0x07dea0fc)
+    src_jikes\decl.cpp, Semantic::ProcessMembers (), Line 1191+0000 byte(s)
+ 22 .V PC=0023:0050dab3 Ret=00493c3f Frame=0018a850 Stack=0018a840
+    Parameters (0x0018aa90 0x08a35908 0x08ca6d60 0x08ca6d60)
+    src_jikes\symbol.cpp, TypeSymbol::ProcessMembers (), Line 0283+0000 byte(s)
+ 23 .V PC=0023:00493c3f Ret=00493a5f Frame=0018a8ec Stack=0018a858
+    Parameters (0x01fc6fa0 0x08a35908 0x01fc6fa0 0x01fc6fa0)
+    src_jikes\control.cpp, Control::ProcessMembers (), Line 1231+0000 byte(s)
+ 24 .V PC=0023:00493a5f Ret=004937f9 Frame=0018a914 Stack=0018a8f4
+    Parameters (0x081b7c80 0x08a35908 0xcccccccc 0x0018aa9c)
+    src_jikes\control.cpp, Control::ProcessHeaders (), Line 1180+0000 byte(s)
+ 25 .V PC=0023:004937f9 Ret=00491a91 Frame=0018a928 Stack=0018a91c
+    Parameters (0x081b7c80 0x0018db78 0x0018aae8 0xcccccccc)
+    src_jikes\control.cpp, Control::ProcessFile (), Line 1124+0000 byte(s)
+ 26 .V PC=0023:00491a91 Ret=004eb449 Frame=0018aa9c Stack=0018a930
+    Parameters (0x08c4a668 0x01fc4718 0xcccccccc 0xcccccccc)
+    src_jikes\control.cpp, Control::Control (), Line 0289+0000 byte(s)
+ 27 .V PC=0023:004eb449 Ret=00420c6e Frame=0018aadc Stack=0018aaa4
+    Parameters (0x08c4a668 0x00408a15 0xcccccccc 0x08c4a240)
+    src_jikes\jikesapi.cpp, JikesAPI::compile (), Line 0213+0048 byte(s)
+ 28 .V PC=0023:00420c6e Ret=00430e8f Frame=0018ab08 Stack=0018aae4
+    Parameters (0x00000009 0x0018af34 0x0018dfdc 0xcccccccc)
+    src\edjikes.cpp, EdJikes_Compile (), Line 0226+0017 byte(s)
+ 29 .V PC=0023:00430e8f Ret=0040867f Frame=0018db78 Stack=0018ab10
+    Parameters (0x00010648 0x01fdf830 0x00000000 0xcccccccc)
+    src\edrun.c, EdRun_Compile (), Line 0701+0014 byte(s)
+ 30 .V PC=0023:0040867f Ret=0040b0eb Frame=0018db9c Stack=0018db80
+    Parameters (0x00010648 0x00000001 0x00000000 0x00000000)
+    src\eddisp.c, EdDisp_Run (), Line 1730+0023 byte(s)
+ 31 .V PC=0023:0040b0eb Ret=004090f1 Frame=0018dfdc Stack=0018dba4
+    Parameters (0x00010648 0x00000579 0x00000000 0x00408a15)
+    src\eddisp.c, MyCommandHandler (), Line 3288+0015 byte(s)
+ 32 .V PC=0023:004090f1 Ret=00408a70 Frame=0018e03c Stack=0018dfe4
+    Parameters (0x00010648 0x00000111 0x00000579 0x00000001)
+    src\eddisp.c, MyCommonMessageHandler (), Line 3487+0019 byte(s)
+ 33 .V PC=0023:00408a70 Ret=778b62fa Frame=0018e064 Stack=0018e044
+    Parameters (0x00010648 0x00000111 0x00000579 0x00000001)
+    src\eddisp.c, MyTextDisplayWindowProcedure (), Line 1962+0025 byte(s)
+ 34 .V PC=0023:778b62fa Ret=778b6d3a Frame=0018e090 Stack=0018e06c
+    Parameters (0x00408a15 0x00010648 0x00000111 0x00000579)
+    Unknown module, gapfnScSendMessage() + 0818 byte(s)
+ 35 .V PC=0023:778b6d3a Ret=778b965e Frame=0018e108 Stack=0018e098
+    Parameters (0x00000000 0x00408a15 0x00010648 0x00000111)
+    Unknown module, GetThreadDesktop() + 0215 byte(s)
+ 36 .V PC=0023:778b965e Ret=778c617a Frame=0018e14c Stack=0018e110
+    Parameters (0x00c0f5f0 0x00000000 0x00408a15 0x00000579)
+    Unknown module, GetWindow() + 1008 byte(s)
+ 37 .V PC=0023:778c617a Ret=004488da Frame=0018e170 Stack=0018e154
+    Parameters (0x00010648 0x00000111 0x00000579 0x00000001)
+    Unknown module, SendMessageA() + 0076 byte(s)
+ 38 .V PC=0023:004488da Ret=778b62fa Frame=0018e1a8 Stack=0018e178
+    Parameters (0x000405be 0x00000111 0x00000579 0x00010620)
+    src\edwin.c, MyEditorWindowProcedure (), Line 1454+0032 byte(s)
+ 39 .V PC=0023:778b62fa Ret=778b6d3a Frame=0018e1d4 Stack=0018e1b0
+    Parameters (0x00448681 0x000405be 0x00000111 0x00000579)
+    Unknown module, gapfnScSendMessage() + 0818 byte(s)
+ 40 .V PC=0023:778b6d3a Ret=778b965e Frame=0018e24c Stack=0018e1dc
+    Parameters (0x00000000 0x00448681 0x000405be 0x00000111)
+    Unknown module, GetThreadDesktop() + 0215 byte(s)
+ 41 .V PC=0023:778b965e Ret=778c617a Frame=0018e290 Stack=0018e254
+    Parameters (0x00bf9810 0x00000000 0x00448681 0x00000579)
+    Unknown module, GetWindow() + 1008 byte(s)
+ 42 .V PC=0023:778c617a Ret=00403c69 Frame=0018e2b4 Stack=0018e298
+    Parameters (0x000405be 0x*** ENVIRONMENT CRASH ***
+
+Date: Mar 29 2013 12:34 PM
+
+File Name: C:\Program Files (x86)\Ready to Program\Ready.exe
+Version: 1.7.1  [11]
+File Size: 2908199
+File Date: Oct 7 2003 4:57 PM
+Operating System: After Windows XP
+JVM: Ready Built-in JRE (1.4.2 or later)
+"assert" Statements: disabled
+
+
+Cause of Crash: Access Violation
+
+Previous Operations:
+    Set Selection (1) - Text: 1fc4ea0 - L: 1076 - C: 86
+    Text - sz:1116:38037 - slFr:1077:77:36194 - slTo:1077:77:36194 - nlA:0
+    Line Starts: 1113:38034 1114:38035 1115:38036 1116:38037
+    Set Selection (2) - sz:1116:38037 - slFr:36097 - slTo:36097 - nlA:0
+    Line Starts: 1113:38034 1114:38035 1115:38036 1116:38037
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 1fc4ea0 - L: 1076 - C: 86 (x1)
+    Text - sz:1116:38037 - slFr:1076:86:36097 - slTo:1076:86:36097 - nlA:0
+    Line Starts: 1113:38034 1114:38035 1115:38036 1116:38037
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_SAVE_FILE
+    Save File (1) - Window: 10648 - SaveAs: 0 - Sel: 0 - fileno: 0 - sizeptr: 0
+    Save File (2) - name: C:\Users\Zain\Desktop\Computer Science PC\RPG Text\Game\Programming\rpgtexttest.java - fileno: 0 - sizeptr: 0
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 1fc4ea0 - L: 1073 - C: 16
+    Text - sz:1116:38037 - slFr:1076:86:36097 - slTo:1076:86:36097 - nlA:0
+    Line Starts: 1113:38034 1114:38035 1115:38036 1116:38037
+    Set Selection (2) - sz:1116:38037 - slFr:35894 - slTo:35894 - nlA:0
+    Line Starts: 1113:38034 1114:38035 1115:38036 1116:38037
+    Extend Selection - Text: 1fc4ea0 - L: 1079 - C: 19 (x46)
+    Text - sz:1116:38037 - slFr:35894 - slTo:36310 - nlA:0
+    Line Starts: 1113:38034 1114:38035 1115:38036 1116:38037
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 1fc4ea0 - L: 1079 - C: 19 (x1)
+    Text - sz:1116:38037 - slFr:35894 - slTo:36310 - nlA:0
+    Line Starts: 1113:38034 1114:38035 1115:38036 1116:38037
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_COPY
+    Cut/Copy (1) - Window: 10648 - Cut: 0
+    Cut/Copy (2) - from:1073:16:35894 - to:1079:17:36310 - lines:7 - nla: 1116
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 1fc4ea0 - L: 1079 - C: 18
+    Text - sz:1116:38037 - slFr:1073:16:35894 - slTo:1079:17:36310 - nlA:0
+    Line Starts: 1113:38034 1114:38035 1115:38036 1116:38037
+    Set Selection (2) - sz:1116:38037 - slFr:36310 - slTo:36310 - nlA:0
+    Line Starts: 1113:38034 1114:38035 1115:38036 1116:38037
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 1fc4ea0 - L: 1079 - C: 18 (x1)
+    Text - sz:1116:38037 - slFr:1079:17:36310 - slTo:1079:17:36310 - nlA:0
+    Line Starts: 1113:38034 1114:38035 1115:38036 1116:38037
+  CMD: WM_CHAR [#13] (D)
+    Keystroke - Text: 1fc4ea0 - ch: 13
+    Text - sz:1116:38037 - slFr:36310 - slTo:36310 - nlA:0
+    Line Starts: 1113:38034 1114:38035 1115:38036 1116:38037
+    Keystroke (2) - sz:1117:38054 - slFr:36327 - slTo:36327 - nlA:0
+    Line Starts: 1114:38051 1115:38052 1116:38053 1117:38054
+  CMD: WM_CHAR [#13] (D)
+    Keystroke - Text: 1fc4ea0 - ch: 13
+    Text - sz:1117:38054 - slFr:1080:16:36327 - slTo:1080:16:36327 - nlA:0
+    Line Starts: 1114:38051 1115:38052 1116:38053 1117:38054
+    Keystroke (2) - sz:1118:38071 - slFr:36344 - slTo:36344 - nlA:0
+    Line Starts: 1115:38068 1116:38069 1117:38070 1118:38071
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_PASTE
+    Paste (1) - Window: 10648 - SelLen: 0
+    Insert Text (1) - Text: 1fc4ea0 - size: 422 - clean: 0
+    Text - sz:1118:38071 - slFr:1081:16:36344 - slTo:1081:16:36344 - nlA:0
+    Line Starts: 1115:38068 1116:38069 1117:38070 1118:38071
+    Insert Text (2) - numNewLines: 6
+    Insert Text (3) - sz:1124:38487 - slFr:36760 - slTo:36760 - nlA:0
+    Line Starts: 1121:38484 1122:38485 1123:38486 1124:38487
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 1fc4ea0 - L: 1081 - C: 17
+    Text - sz:1124:38487 - slFr:1087:17:36760 - slTo:1087:17:36760 - nlA:0
+    Line Starts: 1121:38484 1122:38485 1123:38486 1124:38487
+    Set Selection (2) - sz:1124:38487 - slFr:36345 - slTo:36345 - nlA:0
+    Line Starts: 1121:38484 1122:38485 1123:38486 1124:38487
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 1fc4ea0 - L: 1081 - C: 17 (x1)
+    Text - sz:1124:38487 - slFr:1081:17:36345 - slTo:1081:17:36345 - nlA:0
+    Line Starts: 1121:38484 1122:38485 1123:38486 1124:38487
+  CMD: COMMAND_MOVE/SELECT_COLUMN_LEFT
+    Move Column Left - Text: 1fc4ea0 - Select: 0
+    Text - sz:1124:38487 - slFr:36345 - slTo:36345 - nlA:0
+    Line Starts: 1121:38484 1122:38485 1123:38486 1124:38487
+  CMD: WM_CHAR [ ] (D) (x5) [else ]
+    Keystroke - Text: 1fc4ea0 - ch: 32
+    Text - sz:1124:38491 - slFr:1081:20:36348 - slTo:1081:20:36348 - nlA:0
+    Line Starts: 1121:38488 1122:38489 1123:38490 1124:38491
+    Keystroke (2) - sz:1124:38492 - slFr:36349 - slTo:36349 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 1fc4ea0 - L: 1081 - C: 83
+    Text - sz:1124:38492 - slFr:1081:21:36349 - slTo:1081:21:36349 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+    Set Selection (2) - sz:1124:38492 - slFr:36411 - slTo:36411 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+    Extend Selection - Text: 1fc4ea0 - L: 1081 - C: 84 (x4)
+    Text - sz:1124:38492 - slFr:1081:83:36411 - slTo:1081:84:36412 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 1fc4ea0 - L: 1081 - C: 84 (x1)
+    Text - sz:1124:38492 - slFr:36411 - slTo:36412 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+  CMD: WM_CHAR [3] (D) (x1) [3]
+    Keystroke - Text: 1fc4ea0 - ch: 51
+    Text - sz:1124:38492 - slFr:36411 - slTo:36412 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+    Delete Selection (1) - Text: 1fc4ea0
+    Text - sz:1124:38492 - slFr:1081:83:36411 - slTo:1081:84:36412 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+    Delete Selection (2) - From line: 1081 - From col: 83 - To line: 1081 - To col: 84
+    Delete Selection (3) - sz:1124:38491 - slFr:36411 - slTo:36411 - nlA:0
+    Line Starts: 1121:38488 1122:38489 1123:38490 1124:38491
+    Keystroke (2) - sz:1124:38492 - slFr:36412 - slTo:36412 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 1fc4ea0 - L: 1085 - C: 76
+    Text - sz:1124:38492 - slFr:1081:84:36412 - slTo:1081:84:36412 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+    Set Selection (2) - sz:1124:38492 - slFr:36648 - slTo:36648 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+    Extend Selection - Text: 1fc4ea0 - L: 1085 - C: 77 (x4)
+    Text - sz:1124:38492 - slFr:36648 - slTo:36649 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 1fc4ea0 - L: 1085 - C: 77 (x1)
+    Text - sz:1124:38492 - slFr:36648 - slTo:36649 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+  CMD: WM_CHAR [4] (D) (x1) [4]
+    Keystroke - Text: 1fc4ea0 - ch: 52
+    Text - sz:1124:38492 - slFr:36648 - slTo:36649 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+    Delete Selection (1) - Text: 1fc4ea0
+    Text - sz:1124:38492 - slFr:1085:76:36648 - slTo:1085:77:36649 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+    Delete Selection (2) - From line: 1085 - From col: 76 - To line: 1085 - To col: 77
+    Delete Selection (3) - sz:1124:38491 - slFr:36648 - slTo:36648 - nlA:0
+    Line Starts: 1121:38488 1122:38489 1123:38490 1124:38491
+    Keystroke (2) - sz:1124:38492 - slFr:36649 - slTo:36649 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 1fc4ea0 - L: 1084 - C: 76
+    Text - sz:1124:38492 - slFr:1085:77:36649 - slTo:1085:77:36649 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+    Set Selection (2) - sz:1124:38492 - slFr:36542 - slTo:36542 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 1fc4ea0 - L: 1084 - C: 76 (x1)
+    Text - sz:1124:38492 - slFr:1084:76:36542 - slTo:1084:76:36542 - nlA:0
+    Line Starts: 1121:38489 1122:38490 1123:38491 1124:38492
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_SAVE_FILE
+    Save File (1) - Window: 10648 - SaveAs: 0 - Sel: 0 - fileno: 0 - sizeptr: 0
+    Save File (2) - name: C:\Users\Zain\Desktop\Computer Science PC\RPG Text\Game\Programming\rpgtexttest.java - fileno: 0 - sizeptr: 0
+  CMD: WM_SETFOCUS (W)
+  CMD: COMMAND_STOP
+  CMD: WM_SETFOCUS (W)
+  CMD: COMMAND_RUN
+    Run (1) - Window: 10648 - Ex: 1 - Args: 0 - Step: 0
+
+
+Registers
+  EAX=00001A8C  EBX=02019EB8  ECX=003E0000  EDX=02019EB8  ESI=3EF154A5
+  EDI=02019EB0  EBP=0018A0D8  ESP=0018A0A4  EIP=77E7E3BE  FLG=00010206
+  CS=0023  DS=002B  SS=002B  ES=002B  FS=0053  GS=002B
+
+List of Modules: 
+    C:\Program Files (x86)\Ready to Program\Ready.exe
+    C:\Windows\SysWOW64\ntdll.dll
+    C:\Program Files\AVAST Software\Avast\snxhk.dll
+    C:\Windows\syswow64\KERNEL32.dll
+    C:\Windows\syswow64\KERNELBASE.dll
+    C:\Windows\syswow64\USER32.dll
+    C:\Windows\syswow64\GDI32.dll
+    C:\Windows\syswow64\LPK.dll
+    C:\Windows\syswow64\USP10.dll
+    C:\Windows\syswow64\msvcrt.dll
+    C:\Windows\syswow64\ADVAPI32.dll
+    C:\Windows\SysWOW64\sechost.dll
+    C:\Windows\syswow64\RPCRT4.dll
+    C:\Windows\syswow64\SspiCli.dll
+    C:\Windows\syswow64\CRYPTBASE.dll
+    C:\Windows\syswow64\comdlg32.dll
+    C:\Windows\syswow64\SHLWAPI.dll
+    C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.17514_none_ec83dffa859149af\COMCTL32.dll
+    C:\Windows\syswow64\SHELL32.dll
+    C:\Windows\system32\VERSION.dll
+    C:\Windows\system32\WINMM.dll
+    C:\Windows\system32\IMM32.DLL
+    C:\Windows\syswow64\MSCTF.dll
+    C:\Windows\system32\uxtheme.dll
+    C:\Program Files (x86)\Ready to Program\Support\Bin\edjdll.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\client\jvm.dll
+    C:\Windows\system32\apphelp.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\hpi.dll
+    C:\Windows\system32\ole32.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\verify.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\java.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\zip.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\dt_shmem.dll
+    C:\Windows\system32\dwmapi.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\net.dll
+    C:\Windows\syswow64\WS2_32.dll
+    C:\Windows\syswow64\NSI.dll
+    C:\Windows\system32\NLAapi.dll
+    C:\Windows\system32\napinsp.dll
+    C:\Windows\system32\pnrpnsp.dll
+    C:\Windows\System32\mswsock.dll
+    C:\Windows\system32\DNSAPI.dll
+    C:\Windows\System32\winrnr.dll
+    C:\Windows\system32\IPHLPAPI.DLL
+    C:\Windows\system32\WINNSI.DLL
+    C:\Windows\System32\fwpuclnt.dll
+    C:\Windows\system32\rasadhlp.dll
+    C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.DLL
+    C:\Program Files (x86)\ASUS\AI Suite II\TurboV EVO\HookKey32.dll
+    C:\Windows\system32\dbghelp.dll
+
+  0 .V PC=0023:77e7e3be Ret=77e7e023 Frame=0018a0d8 Stack=0018a0a4
+    Parameters (0x00000011 0x0018a3a0 0x00000000 0x02019eb0)
+    Unknown module, RtlInitUnicodeString() + 0406 byte(s)
+  1 .V PC=0023:77e7e023 Ret=759e14dd Frame=0018a0f0 Stack=0018a0e0
+    Parameters (0x003e0000 0x00000000 0x02019eb8 0x0018a14c)
+    Unknown module, RtlFreeHeap() + 0126 byte(s)
+  2 .V PC=0023:759e14dd Ret=00530995 Frame=0018a104 Stack=0018a0f8
+    Parameters (0x003e0000 0x00000000 0x02019eb8 0x0018a3a0)
+    Unknown module, HeapFree() + 0020 byte(s)
+  3 .V PC=0023:00530995 Ret=00526037 Frame=0018a14c Stack=0018a10c
+    Parameters (0x02019eb8 0x0018a3a0 0x00000011 0x00000000)
+    free.c, _free_base (), Line 0096+0000 byte(s)
+  4 .V PC=0023:00526037 Ret=00525c51 Frame=0018a168 Stack=0018a154
+    Parameters (0x02019ed8 0x00000001 0x0018a3a0 0x00000011)
+    dbgheap.c, _free_dbg_lk (), Line 1116+0009 byte(s)
+  5 .V PC=0023:00525c51 Ret=005288fd Frame=0018a19c Stack=0018a170
+    Parameters (0x02019ed8 0x00000001 0x0018a3a0 0x00000011)
+    dbgheap.c, _free_dbg (), Line 1001+0013 byte(s)
+  6 .V PC=0023:005288fd Ret=004dd5e1 Frame=0018a1bc Stack=0018a1a4
+    Parameters (0x02019ed8 0x0018a418 0x0018a434 0xcccccccc)
+    dbgdel.cpp, operator delete (), Line 0049+0016 byte(s)
+  7 .V PC=0023:004dd5e1 Ret=004daf41 Frame=0018a3ac Stack=0018a1c4
+    Parameters (0x0852d6d8 0x06ac2b75 0x000009b1 0x00001399)
+    src_jikes\getclass.cpp, Semantic::ProcessClassFile (), Line 1246+0021 byte(s)
+  8 .V PC=0023:004daf41 Ret=004da567 Frame=0018a424 Stack=0018a3b4
+    Parameters (0x0852d6d8 0x00001399 0x0018a4f4 0x0018a69c)
+    src_jikes\getclass.cpp, Semantic::ReadClassFile (), Line 0427+0032 byte(s)
+  9 .V PC=0023:004da567 Ret=00510f26 Frame=0018a480 Stack=0018a42c
+    Parameters (0x08ca70d8 0x07c247f8 0x00001399 0xcccccccc)
+    src_jikes\getclass.cpp, Semantic::ProcessNestedType (), Line 0104+0000 byte(s)
+ 10 .V PC=0023:00510f26 Ret=004a1509 Frame=0018a4b0 Stack=0018a488
+    Parameters (0x01fc6fa0 0x00001399 0x0018a544 0x07c20e38)
+    src_jikes\symbol.cpp, TypeSymbol::ProcessNestedTypeSignatures (), Line 1176+0000 byte(s)
+ 11 .V PC=0023:004a1509 Ret=004a149f Frame=0018a500 Stack=0018a4b8
+    Parameters (0x08ca70d8 0x00001399 0x0018a594 0x07c20de0)
+    src_jikes\decl.cpp, Semantic::ComputeTypesClosure (), Line 3377+0000 byte(s)
+ 12 .V PC=0023:004a149f Ret=004a149f Frame=0018a550 Stack=0018a508
+    Parameters (0x08ca77c8 0x00001399 0x0018a5e4 0x07c20d88)
+    src_jikes\decl.cpp, Semantic::ComputeTypesClosure (), Line 3368+0000 byte(s)
+ 13 .V PC=0023:004a149f Ret=004a149f Frame=0018a5a0 Stack=0018a558
+    Parameters (0x0852c6a8 0x00001399 0x0018a634 0x07c20d30)
+    src_jikes\decl.cpp, Semantic::ComputeTypesClosure (), Line 3368+0000 byte(s)
+ 14 .V PC=0023:004a149f Ret=004a149f Frame=0018a5f0 Stack=0018a5a8
+    Parameters (0x0852c580 0x00001399 0x0018a690 0x07c20cd8)
+    src_jikes\decl.cpp, Semantic::ComputeTypesClosure (), Line 3368+0000 byte(s)
+ 15 .V PC=0023:004a149f Ret=004a2809 Frame=0018a640 Stack=0018a5f8
+    Parameters (0x08ca6d60 0x00001399 0x0018a6dc 0x0018a69c)
+    src_jikes\decl.cpp, Semantic::ComputeTypesClosure (), Line 3368+0000 byte(s)
+ 16 .V PC=0023:004a2809 Ret=004a2cbb Frame=0018a690 Stack=0018a648
+    Parameters (0x00001399 0x0018a72c 0x0018a73c 0xcccccccc)
+    src_jikes\decl.cpp, Semantic::FindType (), Line 3851+0000 byte(s)
+ 17 .V PC=0023:004a2cbb Ret=004a1a97 Frame=0018a6dc Stack=0018a698
+    Parameters (0x07de834c 0x0018a7d4 0x0018a73c 0xcccccccc)
+    src_jikes\decl.cpp, Semantic::MustFindType (), Line 4005+0012 byte(s)
+ 18 .V PC=0023:004a1a97 Ret=004a2002 Frame=0018a72c Stack=0018a6e4
+    Parameters (0x07c761c8 0x07de83b4 0x0018a838 0x0018aae8)
+    src_jikes\decl.cpp, Semantic::ProcessFormalParameters (), Line 3496+0035 byte(s)
+ 19 .V PC=0023:004a2002 Ret=004a3f2c Frame=0018a7e0 Stack=0018a734
+    Parameters (0x07de83fc 0x01fc6fa0 0x00000001 0x0018a838)
+    src_jikes\decl.cpp, Semantic::ProcessMethodDeclaration (), Line 3618+0000 byte(s)
+ 20 .V PC=0023:004a3f2c Ret=0049c9b4 Frame=0018a7f4 Stack=0018a7e8
+    Parameters (0x07de9db4 0x0018a8e0 0x0018aae8 0xcccccccc)
+    src_jikes\decl.cpp, Semantic::ProcessMethodMembers (), Line 1159+0023 byte(s)
+ 21 .V PC=0023:0049c9b4 Ret=0050dab3 Frame=0018a838 Stack=0018a7fc
+    Parameters (0x08438010 0x07de9db4 0x08ca6d60 0x07dea0fc)
+    src_jikes\decl.cpp, Semantic::ProcessMembers (), Line 1191+0000 byte(s)
+ 22 .V PC=0023:0050dab3 Ret=00493c3f Frame=0018a850 Stack=0018a840
+    Parameters (0x0018aa90 0x08a35908 0x08ca6d60 0x08ca6d60)
+    src_jikes\symbol.cpp, TypeSymbol::ProcessMembers (), Line 0283+0000 byte(s)
+ 23 .V PC=0023:00493c3f Ret=00493a5f Frame=0018a8ec Stack=0018a858
+    Parameters (0x01fc6fa0 0x08a35908 0x01fc6fa0 0x01fc6fa0)
+    src_jikes\control.cpp, Control::ProcessMembers (), Line 1231+0000 byte(s)
+ 24 .V PC=0023:00493a5f Ret=004937f9 Frame=0018a914 Stack=0018a8f4
+    Parameters (0x081b7c80 0x08a35908 0xcccccccc 0x0018aa9c)
+    src_jikes\control.cpp, Control::ProcessHeaders (), Line 1180+0000 byte(s)
+ 25 .V PC=0023:004937f9 Ret=00491a91 Frame=0018a928 Stack=0018a91c
+    Parameters (0x081b7c80 0x0018db78 0x0018aae8 0xcccccccc)
+    src_jikes\control.cpp, Control::ProcessFile (), Line 1124+0000 byte(s)
+ 26 .V PC=0023:00491a91 Ret=004eb449 Frame=0018aa9c Stack=0018a930
+    Parameters (0x08c4a668 0x01fc4718 0xcccccccc 0xcccccccc)
+    src_jikes\control.cpp, Control::Control (), Line 0289+0000 byte(s)
+ 27 .V PC=0023:004eb449 Ret=00420c6e Frame=0018aadc Stack=0018aaa4
+    Parameters (0x08c4a668 0x00408a15 0xcccccccc 0x08c4a240)
+    src_jikes\jikesapi.cpp, JikesAPI::compile (), Line 0213+0048 byte(s)
+ 28 .V PC=0023:00420c6e Ret=00430e8f Frame=0018ab08 Stack=0018aae4
+    Parameters (0x00000009 0x0018af34 0x0018dfdc 0xcccccccc)
+    src\edjikes.cpp, EdJikes_Compile (), Line 0226+0017 byte(s)
+ 29 .V PC=0023:00430e8f Ret=0040867f Frame=0018db78 Stack=0018ab10
+    Parameters (0x00010648 0x01fdf830 0x00000000 0xcccccccc)
+    src\edrun.c, EdRun_Compile (), Line 0701+0014 byte(s)
+ 30 .V PC=0023:0040867f Ret=0040b0eb Frame=0018db9c Stack=0018db80
+    Parameters (0x00010648 0x00000001 0x00000000 0x00000000)
+    src\eddisp.c, EdDisp_Run (), Line 1730+0023 byte(s)
+ 31 .V PC=0023:0040b0eb Ret=004090f1 Frame=0018dfdc Stack=0018dba4
+    Parameters (0x00010648 0x00000579 0x00000000 0x00408a15)
+    src\eddisp.c, MyCommandHandler (), Line 3288+0015 byte(s)
+ 32 .V PC=0023:004090f1 Ret=00408a70 Frame=0018e03c Stack=0018dfe4
+    Parameters (0x00010648 0x00000111 0x00000579 0x00000001)
+    src\eddisp.c, MyCommonMessageHandler (), Line 3487+0019 byte(s)
+ 33 .V PC=0023:00408a70 Ret=778b62fa Frame=0018e064 Stack=0018e044
+    Parameters (0x00010648 0x00000111 0x00000579 0x00000001)
+    src\eddisp.c, MyTextDisplayWindowProcedure (), Line 1962+0025 byte(s)
+ 34 .V PC=0023:778b62fa Ret=778b6d3a Frame=0018e090 Stack=0018e06c
+    Parameters (0x00408a15 0x00010648 0x00000111 0x00000579)
+    Unknown module, gapfnScSendMessage() + 0818 byte(s)
+ 35 .V PC=0023:778b6d3a Ret=778b965e Frame=0018e108 Stack=0018e098
+    Parameters (0x00000000 0x00408a15 0x00010648 0x00000111)
+    Unknown module, GetThreadDesktop() + 0215 byte(s)
+ 36 .V PC=0023:778b965e Ret=778c617a Frame=0018e14c Stack=0018e110
+    Parameters (0x00c0f5f0 0x00000000 0x00408a15 0x00000579)
+    Unknown module, GetWindow() + 1008 byte(s)
+ 37 .V PC=0023:778c617a Ret=004488da Frame=0018e170 Stack=0018e154
+    Parameters (0x00010648 0x00000111 0x00000579 0x00000001)
+    Unknown module, SendMessageA() + 0076 byte(s)
+ 38 .V PC=0023:004488da Ret=778b62fa Frame=0018e1a8 Stack=0018e178
+    Parameters (0x000405be 0x00000111 0x00000579 0x00010620)
+    src\edwin.c, MyEditorWindowProcedure (), Line 1454+0032 byte(s)
+ 39 .V PC=0023:778b62fa Ret=778b6d3a Frame=0018e1d4 Stack=0018e1b0
+    Parameters (0x00448681 0x000405be 0x00000111 0x00000579)
+    Unknown module, gapfnScSendMessage() + 0818 byte(s)
+ 40 .V PC=0023:778b6d3a Ret=778b965e Frame=0018e24c Stack=0018e1dc
+    Parameters (0x00000000 0x00448681 0x000405be 0x00000111)
+    Unknown module, GetThreadDesktop() + 0215 byte(s)
+ 41 .V PC=0023:778b965e Ret=778c617a Frame=0018e290 Stack=0018e254
+    Parameters (0x00bf9810 0x00000000 0x00448681 0x00000579)
+    Unknown module, GetWindow() + 1008 byte(s)
+ 42 .V PC=0023:778c617a Ret=00403c69 Frame=0018e2b4 Stack=0018e298
+    Parameters (0x000405be 0x*** FATAL INTERNAL ERROR in "Ready" ***
+Date: Mar 29 2013 4:14 PM
+
+File Name: C:\Program Files (x86)\Ready to Program\Ready.exe
+Version: 1.7.1  [11]
+File Size: 2908199
+File Date: Oct 7 2003 4:57 PM
+Operating System: After Windows XP
+JVM: Ready Built-in JRE (1.4.2 or later)
+"assert" Statements: disabled
+
+
+Previous Operations:
+    Keystroke (2) - sz:1140:38960 - slFr:31480 - slTo:31480 - nlA:0
+    Line Starts: 1137:38957 1138:38958 1139:38959 1140:38960
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 924ea8 - ch: 8
+    Text - sz:1140:38960 - slFr:996:14:31480 - slTo:996:14:31480 - nlA:0
+    Line Starts: 1137:38957 1138:38958 1139:38959 1140:38960
+    Keystroke (2) - sz:1140:38959 - slFr:31479 - slTo:31479 - nlA:0
+    Line Starts: 1137:38956 1138:38957 1139:38958 1140:38959
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 924ea8 - ch: 8
+    Text - sz:1140:38959 - slFr:996:13:31479 - slTo:996:13:31479 - nlA:0
+    Line Starts: 1137:38956 1138:38957 1139:38958 1140:38959
+    Keystroke (2) - sz:1140:38958 - slFr:31478 - slTo:31478 - nlA:0
+    Line Starts: 1137:38955 1138:38956 1139:38957 1140:38958
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 924ea8 - ch: 8
+    Text - sz:1140:38958 - slFr:996:12:31478 - slTo:996:12:31478 - nlA:0
+    Line Starts: 1137:38955 1138:38956 1139:38957 1140:38958
+    Keystroke (2) - sz:1140:38957 - slFr:31477 - slTo:31477 - nlA:0
+    Line Starts: 1137:38954 1138:38955 1139:38956 1140:38957
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 924ea8 - ch: 8
+    Text - sz:1140:38957 - slFr:996:11:31477 - slTo:996:11:31477 - nlA:0
+    Line Starts: 1137:38954 1138:38955 1139:38956 1140:38957
+    Keystroke (2) - sz:1140:38956 - slFr:31476 - slTo:31476 - nlA:0
+    Line Starts: 1137:38953 1138:38954 1139:38955 1140:38956
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 924ea8 - ch: 8
+    Text - sz:1140:38956 - slFr:996:10:31476 - slTo:996:10:31476 - nlA:0
+    Line Starts: 1137:38953 1138:38954 1139:38955 1140:38956
+    Keystroke (2) - sz:1140:38955 - slFr:31475 - slTo:31475 - nlA:0
+    Line Starts: 1137:38952 1138:38953 1139:38954 1140:38955
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 924ea8 - ch: 8
+    Text - sz:1140:38955 - slFr:996:9:31475 - slTo:996:9:31475 - nlA:0
+    Line Starts: 1137:38952 1138:38953 1139:38954 1140:38955
+    Keystroke (2) - sz:1140:38954 - slFr:31474 - slTo:31474 - nlA:0
+    Line Starts: 1137:38951 1138:38952 1139:38953 1140:38954
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 924ea8 - ch: 8
+    Text - sz:1140:38954 - slFr:996:8:31474 - slTo:996:8:31474 - nlA:0
+    Line Starts: 1137:38951 1138:38952 1139:38953 1140:38954
+    Keystroke (2) - sz:1140:38953 - slFr:31473 - slTo:31473 - nlA:0
+    Line Starts: 1137:38950 1138:38951 1139:38952 1140:38953
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 924ea8 - ch: 8
+    Text - sz:1140:38953 - slFr:996:7:31473 - slTo:996:7:31473 - nlA:0
+    Line Starts: 1137:38950 1138:38951 1139:38952 1140:38953
+    Keystroke (2) - sz:1140:38952 - slFr:31472 - slTo:31472 - nlA:0
+    Line Starts: 1137:38949 1138:38950 1139:38951 1140:38952
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 924ea8 - ch: 8
+    Text - sz:1140:38952 - slFr:996:6:31472 - slTo:996:6:31472 - nlA:0
+    Line Starts: 1137:38949 1138:38950 1139:38951 1140:38952
+    Keystroke (2) - sz:1140:38951 - slFr:31471 - slTo:31471 - nlA:0
+    Line Starts: 1137:38948 1138:38949 1139:38950 1140:38951
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 924ea8 - ch: 8
+    Text - sz:1140:38951 - slFr:996:5:31471 - slTo:996:5:31471 - nlA:0
+    Line Starts: 1137:38948 1138:38949 1139:38950 1140:38951
+    Keystroke (2) - sz:1140:38950 - slFr:31470 - slTo:31470 - nlA:0
+    Line Starts: 1137:38947 1138:38948 1139:38949 1140:38950
+  CMD: WM_CHAR [;] (D) (x16) [int endmath = 0;]
+    Keystroke - Text: 924ea8 - ch: 59
+    Text - sz:1140:38965 - slFr:996:19:31485 - slTo:996:19:31485 - nlA:0
+    Line Starts: 1137:38962 1138:38963 1139:38964 1140:38965
+    Keystroke (2) - sz:1140:38966 - slFr:31486 - slTo:31486 - nlA:0
+    Line Starts: 1137:38963 1138:38964 1139:38965 1140:38966
+  CMD: WM_CHAR [#13] (D)
+    Keystroke - Text: 924ea8 - ch: 13
+    Text - sz:1140:38966 - slFr:996:20:31486 - slTo:996:20:31486 - nlA:0
+    Line Starts: 1137:38963 1138:38964 1139:38965 1140:38966
+    Keystroke (2) - sz:1141:38967 - slFr:31491 - slTo:31491 - nlA:0
+    Line Starts: 1138:38964 1139:38965 1140:38966 1141:38967
+  CMD: WM_CHAR [f] (D) (x9) [while enf]
+    Keystroke - Text: 924ea8 - ch: 102
+    Text - sz:1141:38975 - slFr:997:12:31499 - slTo:997:12:31499 - nlA:0
+    Line Starts: 1138:38972 1139:38973 1140:38974 1141:38975
+    Keystroke (2) - sz:1141:38976 - slFr:31500 - slTo:31500 - nlA:0
+    Line Starts: 1138:38973 1139:38974 1140:38975 1141:38976
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 924ea8 - ch: 8
+    Text - sz:1141:38976 - slFr:997:13:31500 - slTo:997:13:31500 - nlA:0
+    Line Starts: 1138:38973 1139:38974 1140:38975 1141:38976
+    Keystroke (2) - sz:1141:38975 - slFr:31499 - slTo:31499 - nlA:0
+    Line Starts: 1138:38972 1139:38973 1140:38974 1141:38975
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: 924ea8 - Undo: 1
+    Text - sz:1141:38975 - slFr:997:12:31499 - slTo:997:12:31499 - nlA:0
+    Line Starts: 1138:38972 1139:38973 1140:38974 1141:38975
+    Undo (2) - Undo size: 0 - Repl from: 31470 - Repl to: 31499
+    Delete Selection (1) - Text: 924ea8
+    Text - sz:1141:38975 - slFr:997:12:31470 - slTo:997:12:31499 - nlA:0
+    Line Starts: 1138:38972 1139:38973 1140:38974 1141:38975
+    Delete Selection (2) - From line: 997 - From col: 12 - To line: 997 - To col: 12
+    Delete Selection (3) - sz:1140:38946 - slFr:31470 - slTo:31470 - nlA:0
+    Line Starts: 1137:38943 1138:38944 1139:38945 1140:38946
+    Undo (3) - sz:1140:38946 - slFr:31470 - slTo:31470 - nlA:0
+    Line Starts: 1137:38943 1138:38944 1139:38945 1140:38946
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: 924ea8 - Undo: 1
+    Text - sz:1140:38946 - slFr:996:4:31470 - slTo:996:4:31470 - nlA:0
+    Line Starts: 1137:38943 1138:38944 1139:38945 1140:38946
+    Undo (2) - Undo size: 0 - Repl from: 31474 - Repl to: 31484
+    Delete Selection (1) - Text: 924ea8
+    Text - sz:1140:38946 - slFr:996:4:31474 - slTo:996:4:31484 - nlA:0
+    Line Starts: 1137:38943 1138:38944 1139:38945 1140:38946
+    Delete Selection (2) - From line: 996 - From col: 4 - To line: 996 - To col: 4
+    Delete Selection (3) - sz:1139:38936 - slFr:31474 - slTo:31474 - nlA:0
+    Line Starts: 1136:38933 1137:38934 1138:38935 1139:38936
+    Undo (3) - sz:1139:38936 - slFr:31474 - slTo:31474 - nlA:0
+    Line Starts: 1136:38933 1137:38934 1138:38935 1139:38936
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: 924ea8 - Undo: 1
+    Text - sz:1139:38936 - slFr:997:3:31474 - slTo:997:3:31474 - nlA:0
+    Line Starts: 1136:38933 1137:38934 1138:38935 1139:38936
+    Undo (2) - Undo size: 0 - Repl from: 38562 - Repl to: 38595
+    Delete Selection (1) - Text: 924ea8
+    Text - sz:1139:38936 - slFr:997:3:38562 - slTo:997:3:38595 - nlA:0
+    Line Starts: 1136:38933 1137:38934 1138:38935 1139:38936
+    Delete Selection (2) - From line: 997 - From col: 3 - To line: 997 - To col: 3
+    Delete Selection (3) - sz:1138:38903 - slFr:38562 - slTo:38562 - nlA:0
+    Line Starts: 1135:38900 1136:38901 1137:38902 1138:38903
+    Undo (3) - sz:1138:38903 - slFr:38562 - slTo:38562 - nlA:0
+    Line Starts: 1135:38900 1136:38901 1137:38902 1138:38903
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: 924ea8 - Undo: 1
+    Text - sz:1138:38903 - slFr:1125:3:38562 - slTo:1125:3:38562 - nlA:0
+    Line Starts: 1135:38900 1136:38901 1137:38902 1138:38903
+    Undo (2) - Undo size: 38943 - Repl from: 0 - Repl to: 38907
+    Delete Selection (1) - Text: 924ea8
+    Text - sz:1138:38903 - slFr:1125:3:0 - slTo:1125:3:38907 - nlA:0
+    Line Starts: 1135:38900 1136:38901 1137:38902 1138:38903
+    Delete Selection (2) - From line: 1125 - From col: 3 - To line: 1125 - To col: 3
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: 924ea8 - Undo: 1
+    Text - sz:1138:38903 - slFr:1125:3:0 - slTo:1125:3:38907 - nlA:0
+    Line Starts: 1135:38900 1136:38901 1137:38902 1138:38903
+    Undo (2) - Undo size: 0 - Repl from: 38521 - Repl to: 38598
+    Delete Selection (1) - Text: 924ea8
+    Text - sz:1138:38903 - slFr:1125:3:38521 - slTo:1125:3:38598 - nlA:0
+    Line Starts: 1135:38900 1136:38901 1137:38902 1138:38903
+    Delete Selection (2) - From line: 1125 - From col: 3 - To line: 1125 - To col: 3
+    Delete Selection (3) - sz:1135:38826 - slFr:38521 - slTo:38521 - nlA:0
+    Line Starts: 1132:38823 1133:38824 1134:38825 1135:38826
+
+
+
+The environment has experienced an unexpected internal error.
+
+This error is caused by a bug in the environment and is not your fault!
+Details about the crash have been saved in the file "K:\Computer Science PC\RPG Text\Game\Programming\panic.log".
+
+If possible, please e-mail this file to readybugs@hsa.on.ca
+
+Here are some details about the error:
+   Error = Line Database Verify Failed (2)
+Num lines: 1135 - Size: 38826 - Other - 1 - 0
+---
+--- (6035)
+   File = src\edtext.c
+   Line = 6160
+
+All unsaved open files will be saved with a ".sav" or ".sv#" extension.
+
+List of Modules: 
+    C:\Program Files (x86)\Ready to Program\Ready.exe
+    C:\Windows\SysWOW64\ntdll.dll
+    C:\Program Files\AVAST Software\Avast\snxhk.dll
+    C:\Windows\syswow64\KERNEL32.dll
+    C:\Windows\syswow64\KERNELBASE.dll
+    C:\Windows\syswow64\USER32.dll
+    C:\Windows\syswow64\GDI32.dll
+    C:\Windows\syswow64\LPK.dll
+    C:\Windows\syswow64\USP10.dll
+    C:\Windows\syswow64\msvcrt.dll
+    C:\Windows\syswow64\ADVAPI32.dll
+    C:\Windows\SysWOW64\sechost.dll
+    C:\Windows\syswow64\RPCRT4.dll
+    C:\Windows\syswow64\SspiCli.dll
+    C:\Windows\syswow64\CRYPTBASE.dll
+    C:\Windows\syswow64\comdlg32.dll
+    C:\Windows\syswow64\SHLWAPI.dll
+    C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.17514_none_ec83dffa859149af\COMCTL32.dll
+    C:\Windows\syswow64\SHELL32.dll
+    C:\Windows\system32\VERSION.dll
+    C:\Windows\system32\WINMM.dll
+    C:\Windows\system32\IMM32.DLL
+    C:\Windows\syswow64\MSCTF.dll
+    C:\Windows\system32\uxtheme.dll
+    C:\Program Files (x86)\Ready to Program\Support\Bin\edjdll.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\client\jvm.dll
+    C:\Windows\system32\apphelp.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\hpi.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\verify.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\java.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\zip.dll
+    C:\Windows\system32\ole32.dll
+    C:\Windows\system32\dwmapi.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\dt_shmem.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\net.dll
+    C:\Windows\syswow64\WS2_32.dll
+    C:\Windows\syswow64\NSI.dll
+    C:\Windows\system32\NLAapi.dll
+    C:\Windows\system32\napinsp.dll
+    C:\Windows\system32\pnrpnsp.dll
+    C:\Windows\System32\mswsock.dll
+    C:\Windows\system32\DNSAPI.dll
+    C:\Windows\System32\winrnr.dll
+    C:\Windows\system32\IPHLPAPI.DLL
+    C:\Windows\system32\WINNSI.DLL
+    C:\Windows\System32\fwpuclnt.dll
+    C:\Windows\system32\rasadhlp.dll
+    C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.DLL
+    C:\Program Files (x86)\ASUS\AI Suite II\TurboV EVO\HookKey32.dll
+    C:\Windows\system32\dbghelp.dll
+
+  0 .V PC=0023:77e6f8b1 Ret=759e1194 Frame=0018b4f4 Stack=0018b488
+    Parameters (0x000005f8 0x00003a98 0x00000000 0x0018b530)
+    Unknown module, ZwWaitForSingleObject() + 0021 byte(s)
+  1 .V PC=0023:759e1194 Ret=759e1148 Frame=0018b50c Stack=0018b4fc
+    Parameters (0x000005f8 0x00003a98 0x00000000 0x0018ddc8)
+    Unknown module, WaitForSingleObjectEx() + 0067 byte(s)
+  2 .V PC=0023:759e1148 Ret=004162f5 Frame=0018b520 Stack=0018b514
+    Parameters (0x000005f8 0x00003a98 0x0018de80 0x00408a15)
+    Unknown module, WaitForSingleObject() + 0018 byte(s)
+  3 .V PC=0023:004162f5 Ret=00415768 Frame=0018ddc8 Stack=0018b528
+    Parameters (0x00000001 0x00001793 0x005fe924 0x00001810)
+    src\edfail.c, MyFailErrorBox (), Line 0987+0020 byte(s)
+  4 .V PC=0023:00415768 Ret=0044460c Frame=0018ddf0 Stack=0018ddd0
+    Parameters (0x00001793 0x005fe924 0x00001810 0x00000000)
+    src\edfail.c, EdFail_Fatal (), Line 0494+0027 byte(s)
+  5 .V PC=0023:0044460c Ret=0043f23f Frame=0018de3c Stack=0018ddf8
+    Parameters (0x00924ea8 0x0018e2f8 0x000096c6 0x00009679)
+    src\edtext.c, MyVerifyLineDB (), Line 6162+0048 byte(s)
+  6 .V PC=0023:0043f23f Ret=0043fd93 Frame=0018de80 Stack=0018de44
+    Parameters (0x00924ea8 0x00925778 0x00000000 0x00009679)
+    src\edtext.c, EdText_SelectionDelete (), Line 2499+0009 byte(s)
+  7 .V PC=0023:0043fd93 Ret=0040d29a Frame=0018dea8 Stack=0018de88
+    Parameters (0x00924ea8 0x00000001 0x00924ea8 0x00001a91)
+    src\edtext.c, EdText_Undo (), Line 2993+0009 byte(s)
+  8 .V PC=0023:0040d29a Ret=0040aab0 Frame=0018dec0 Stack=0018deb0
+    Parameters (0x007b0b40 0x00000001 0x0018e358 0x00408a15)
+    src\eddisp.c, MyEditUndo (), Line 4829+0013 byte(s)
+  9 .V PC=0023:0040aab0 Ret=004090f1 Frame=0018e2f8 Stack=0018dec8
+    Parameters (0x007b0b40 0x0000044d 0x00000000 0x00408a15)
+    src\eddisp.c, MyCommandHandler (), Line 3031+0011 byte(s)
+ 10 .V PC=0023:004090f1 Ret=00408a70 Frame=0018e358 Stack=0018e300
+    Parameters (0x007b0b40 0x00000111 0x0001044d 0x00000001)
+    src\eddisp.c, MyCommonMessageHandler (), Line 3487+0019 byte(s)
+ 11 .V PC=0023:00408a70 Ret=778b62fa Frame=0018e380 Stack=0018e360
+    Parameters (0x007b0b40 0x00000111 0x0001044d 0x00000001)
+    src\eddisp.c, MyTextDisplayWindowProcedure (), Line 1962+0025 byte(s)
+ 12 .V PC=0023:778b62fa Ret=778b6d3a Frame=0018e3ac Stack=0018e388
+    Parameters (0x00408a15 0x007b0b40 0x00000111 0x0001044d)
+    Unknown module, gapfnScSendMessage() + 0818 byte(s)
+ 13 .V PC=0023:778b6d3a Ret=778b965e Frame=0018e424 Stack=0018e3b4
+    Parameters (0x00000000 0x00408a15 0x007b0b40 0x00000111)
+    Unknown module, GetThreadDesktop() + 0215 byte(s)
+ 14 .V PC=0023:778b965e Ret=778c617a Frame=0018e468 Stack=0018e42c
+    Parameters (0x00f6d9e0 0x00000000 0x00408a15 0x0001044d)
+    Unknown module, GetWindow() + 1008 byte(s)
+ 15 .V PC=0023:778c617a Ret=004488da Frame=0018e48c Stack=0018e470
+    Parameters (0x007b0b40 0x00000111 0x0001044d 0x00000001)
+    Unknown module, SendMessageA() + 0076 byte(s)
+ 16 .V PC=0023:004488da Ret=778b62fa Frame=0018e4c4 Stack=0018e494
+    Parameters (0x01f60f28 0x00000111 0x0001044d 0x00000000)
+    src\edwin.c, MyEditorWindowProcedure (), Line 1454+0032 byte(s)
+ 17 .V PC=0023:778b62fa Ret=778b6d3a Frame=0018e4f0 Stack=0018e4cc
+    Parameters (0x00448681 0x01f60f28 0x00000111 0x0001044d)
+    Unknown module, gapfnScSendMessage() + 0818 byte(s)
+ 18 .V PC=0023:778b6d3a Ret=778b6de8 Frame=0018e568 Stack=0018e4f8
+    Parameters (0x00000000 0x00448681 0x01f60f28 0x00000111)
+    Unknown module, GetThreadDesktop() + 0215 byte(s)
+ 19 .V PC=0023:778b6de8 Ret=778b6e44 Frame=0018e5c4 Stack=0018e570
+    Parameters (0x00dc9de0 0x00000000 0x00000111 0x0001044d)
+    Unknown module, GetThreadDesktop() + 0389 byte(s)
+ 20 .V PC=0023:778b6e44 Ret=77e6010a Frame=0018e600 Stack=0018e5cc
+    Parameters (0x0018e618 0x00000000 0x0018ff78 0x77e60070)
+    Unknown module, GetThreadDesktop() + 0481 byte(s)
+ 21 .V PC=0023:77e6010a Ret=004031d4 Frame=0018e658 Stack=0018e608
+    Parameters (0x01f60f28 0x00ad0567 0x0018e680 0x0018e67c)
+    Unknown module, KiUserCallbackDispatcher() + 0046 byte(s)
+ 22 .V PC=0023:004031d4 Ret=00403190 Frame=0018e670 Stack=0018e660
+    Parameters (0x0018e680 0x0018e6a8 0x007b0b40 0x00000100)
+    src\ed.c, MyProcessMessage (), Line 1842+0041 byte(s)
+ 23 .V PC=0023:00403190 Ret=0040170f Frame=0018e6a0 Stack=0018e678
+    Parameters (0x00000000 0x00000000 0xcccccccc 0xcccccccc)
+    src\ed.c, MyProcessEvents (), Line 1818+0009 byte(s)
+ 24 .V PC=0023:0040170f Ret=0052cc26 Frame=0018fef8 Stack=0018e6a8
+    Parameters (0x00400000 0x00000000 0x007e374c 0x00000001)
+    src\ed.c, WinMain (), Line 0470+0005 byte(s)
+ 25 .V PC=0023:0052cc26 Ret=759e33aa Frame=0018ff88 Stack=0018ff00
+    Parameters (0x7efde000 0x0018ffd4 0x77e89ef2 0x7efde000)
+    crt0.c, WinMainCRTStartup (), Line 0198+0054 byte(s)
+ 26 .V PC=0023:759e33aa Ret=77e89ef2 Frame=0018ff94 Stack=0018ff90
+    Parameters (0x7efde000 0x76f328f0 0x00000000 0x00000000)
+    Unknown module, BaseThreadInitThunk() + 0018 byte(s)
+ 27 .V PC=0023:77e89ef2 Ret=77e89ec5 Frame=0018ffd4 Stack=0018ff9c
+    Parameters (0x0052cb00 0x7efde000 0x00000000 0x00000000)
+    Unknown module, RtlInitializeExceptionChain() + 0099 byte(s)
+ 28 .V PC=0023:77e89ec5 Ret=00000000 Frame=0018ffec Stack=0018ffdc
+    Parameters (0x0052cb00 0x7efde000 0x00000000 0x78746341)
+    Unknown module, RtlInitializeExceptionChain() + 0054 byte(s)
+
+
+------------------------------------------------------
+*** ENVIRONMENT CRASH ***
+
+Date: Jul 15 2015 5:44 PM
+
+File Name: C:\Program Files (x86)\Ready to Program\Ready.exe
+Version: 1.7.1  [11]
+File Size: 2908199
+File Date: Oct 7 2003 4:57 PM
+Operating System: After Windows XP
+JVM: Ready Built-in JRE (1.4.2 or later)
+"assert" Statements: disabled
+
+
+Cause of Crash: Access Violation
+
+Previous Operations:
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннE
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннE
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннE
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн 500 џџ"
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    JavaSup: JVM Option: "-Djava.class.path=.;C:\Program Files (x86)\Ready to Program\Support\Ready Classes;C:\Program Files (x86)\Ready to Program\Support\Classes;C:\Program Files (x86)\Ready to Program\Support\Ready Classes\tools.jar;"
+    JavaSup: JVM Option: "-Djava.library.path=C:\Program Files (x86)\Ready to Program\Support\Bin"
+    JavaSup: JVM Option: "-enableassertions"
+    JavaSup: JVM Option: "-Xdebug"
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_SETTINGCHANGE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_CLOSE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_DESTROY (W)
+  CMD: WM_DESTROY (D)
+
+
+Registers
+  EAX=000039C6  EBX=021F68D0  ECX=00000993  EDX=FFFFFFBF  ESI=021F68D0
+  EDI=021F0000  EBP=0018E4C8  ESP=0018E4A0  EIP=77D0451C  FLG=00010206
+  CS=0023  DS=002B  SS=002B  ES=002B  FS=0053  GS=002B
+
+List of Modules: 
+    C:\Program Files (x86)\Ready to Program\Ready.exe
+    C:\Windows\SysWOW64\ntdll.dll
+    C:\Program Files\AVAST Software\Avast\snxhk.dll
+    C:\Windows\syswow64\KERNEL32.dll
+    C:\Windows\syswow64\KERNELBASE.dll
+    C:\Windows\syswow64\USER32.dll
+    C:\Windows\syswow64\GDI32.dll
+    C:\Windows\syswow64\LPK.dll
+    C:\Windows\syswow64\USP10.dll
+    C:\Windows\syswow64\msvcrt.dll
+    C:\Windows\syswow64\ADVAPI32.dll
+    C:\Windows\SysWOW64\sechost.dll
+    C:\Windows\syswow64\RPCRT4.dll
+    C:\Windows\syswow64\SspiCli.dll
+    C:\Windows\syswow64\CRYPTBASE.dll
+    C:\Windows\syswow64\comdlg32.dll
+    C:\Windows\syswow64\SHLWAPI.dll
+    C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\COMCTL32.dll
+    C:\Windows\syswow64\SHELL32.dll
+    C:\Windows\system32\VERSION.dll
+    C:\Windows\system32\WINMM.dll
+    C:\Windows\system32\IMM32.DLL
+    C:\Windows\syswow64\MSCTF.dll
+    C:\Windows\system32\uxtheme.dll
+    C:\Program Files (x86)\Ready to Program\Support\Bin\edjdll.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\client\jvm.dll
+    C:\Windows\system32\apphelp.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\hpi.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\verify.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\java.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\zip.dll
+    C:\Windows\system32\ole32.dll
+    C:\Windows\system32\dwmapi.dll
+    C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\comctl32.DLL
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\dt_shmem.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\net.dll
+    C:\Windows\syswow64\WS2_32.dll
+    C:\Windows\syswow64\NSI.dll
+    C:\Windows\system32\NLAapi.dll
+    C:\Windows\system32\napinsp.dll
+    C:\Windows\syswow64\OLEAUT32.DLL
+    C:\Windows\system32\pnrpnsp.dll
+    C:\Windows\System32\mswsock.dll
+    C:\Windows\system32\DNSAPI.dll
+    C:\Windows\System32\winrnr.dll
+    C:\Windows\system32\wshbth.dll
+    C:\Program Files (x86)\Bonjour\mdnsNSP.dll
+    C:\Windows\system32\Iphlpapi.DLL
+    C:\Windows\system32\WINNSI.DLL
+    C:\Windows\System32\fwpuclnt.dll
+    C:\Windows\system32\rasadhlp.dll
+    C:\Windows\system32\dbghelp.dll
+
+  0 .V PC=0023:77d0451c Ret=77d035d7 Frame=0018e4c8 Stack=0018e4a0
+    Parameters (0x000003c6 0x021f8700 0x0018e590 0x00000000)
+    Unknown module, RtlImageNtHeader() + 4968 byte(s)
+  1 .V PC=0023:77d035d7 Ret=77d034c2 Frame=0018e5c0 Stack=0018e4d0
+    Parameters (0x021f8700 0x021f8708 0x0018e6a8 0x0018fef8)
+    Unknown module, RtlImageNtHeader() + 1059 byte(s)
+  2 .V PC=0023:77d034c2 Ret=76bc14bd Frame=0018e5e0 Stack=0018e5c8
+    Parameters (0x021f0000 0x00000000 0x021f8708 0x0018e63c)
+    Unknown module, RtlImageNtHeader() + 0782 byte(s)
+  3 .V PC=0023:76bc14bd Ret=00530995 Frame=0018e5f4 Stack=0018e5e8
+    Parameters (0x021f0000 0x00000000 0x021f8708 0x0018fef8)
+    Unknown module, HeapFree() + 0020 byte(s)
+  4 .V PC=0023:00530995 Ret=00526037 Frame=0018e63c Stack=0018e5fc
+    Parameters (0x021f8708 0x0018fef8 0x0018e6a8 0x7efde000)
+    free.c, _free_base (), Line 0096+0000 byte(s)
+  5 .V PC=0023:00526037 Ret=00525c51 Frame=0018e658 Stack=0018e644
+    Parameters (0x021f8728 0x00000001 0x0018fef8 0x0018e6a8)
+    dbgheap.c, _free_dbg_lk (), Line 1116+0009 byte(s)
+  6 .V PC=0023:00525c51 Ret=00414d57 Frame=0018e68c Stack=0018e660
+    Parameters (0x021f8728 0x00000001 0x0000000e 0x0018fef8)
+    dbgheap.c, _free_dbg (), Line 1001+0013 byte(s)
+  7 .V PC=0023:00414d57 Ret=0040172b Frame=0018e6a0 Stack=0018e694
+    Parameters (0x00000000 0x00000000 0xcccccccc 0xcccccccc)
+    src\edfail.c, EdFail_Finalize (), Line 0157+0018 byte(s)
+  8 .V PC=0023:0040172b Ret=0052cc26 Frame=0018fef8 Stack=0018e6a8
+    Parameters (0x00400000 0x00000000 0x00882b84 0x00000001)
+    src\ed.c, WinMain (), Line 0486+0000 byte(s)
+  9 .V PC=0023:0052cc26 Ret=76bc337a Frame=0018ff88 Stack=0018ff00
+    Parameters (0x7efde000 0x0018ffd4 0x77d092e2 0x7efde000)
+    crt0.c, WinMainCRTStartup (), Line 0198+0054 byte(s)
+ 10 .V PC=0023:76bc337a Ret=77d092e2 Frame=0018ff94 Stack=0018ff90
+    Parameters (0x7efde000 0x6f83091d 0x00000000 0x00000000)
+    Unknown module, BaseThreadInitThunk() + 0018 byte(s)
+ 11 .V PC=0023:77d092e2 Ret=77d092b5 Frame=0018ffd4 Stack=0018ff9c
+    Parameters (0x0052cb00 0x7efde000 0x00000000 0x00000000)
+    Unknown module, RtlInitializeExceptionChain() + 0099 byte(s)
+ 12 .V PC=0023:77d092b5 Ret=00000000 Frame=0018ffec Stack=0018ffdc
+    Parameters (0x0052cb00 0x7efde000 0x00000000 0x78746341)
+    Unknown module, RtlInitializeExceptionChain() + 0054 byte(s)
+
+------------------------------------------------------

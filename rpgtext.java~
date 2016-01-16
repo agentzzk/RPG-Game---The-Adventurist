@@ -1,0 +1,455 @@
+//Name: Zain
+//Date: March 22nd, 2013
+//Purpose: Text-Based RPG Assignment
+
+import java.applet.*;
+import java.awt.*;
+import java.awt.event.*;
+import java.io.*;
+import javax.swing.*;
+import javax.swing.JTextField;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+public class rpgtext extends Applet implements MouseListener, KeyListener
+{
+    int screen; //Global variable to hold what screen is to be displayed
+    int switchrest; //Global variable for deciding what restriction to call for each screen
+    /*
+     0 = Title Screen
+     1 = Waterfall Intro
+    */
+
+    //Screen Images
+    Image Title, WaterFall, introtran, Housefront, sprite, spriteleft, spriteright, spriteback, housesign;
+
+    //Player position
+    int x1 = 0;
+    int y1 = 0;
+    int mainposx = x1;
+    int mainposy = y1;
+
+    int[] [] validwaterfall = {{1, 1, 1, 1, 1, 1, 1, 1, 1, 0},  //Waterfall restrictions
+	    {1, 1, 0, 1, 1, 1, 0, 1, 1, 0},
+	    {1, 1, 0, 1, 1, 1, 0, 1, 1, 0},
+	    {1, 1, 1, 1, 1, 1, 1, 1, 1, 0},
+	    {1, 1, 1, 1, 0, 1, 1, 1, 1, 0},
+	    {1, 1, 1, 1, 0, 1, 1, 1, 1, 0},
+	    {1, 1, 1, 1, 1, 1, 1, 1, 1, 0},
+	    {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}};
+
+    int[] [] validhousefront = {{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+	    {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+	    {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+	    {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+	    {1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1},
+	    {1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1},
+	    {1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0},
+	    {1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0},
+	    {1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1},
+	    {1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1},
+	    {1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1},
+	    {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}};
+
+    public void init ()
+    {
+	resize (800, 500); //applet size
+	screen = 0; //start on screen 0, the Title Screen
+	addMouseListener (this); //tracks mouse activity
+	addKeyListener (this); //tracks keyboard activity
+
+	Graphics g = getGraphics ();
+
+	WaterFall = getImage (getDocumentBase (), "WaterfallHUD.jpg");
+	g.drawImage (WaterFall, -100, -100, this);
+
+	Title = getImage (getDocumentBase (), "Title.jpg");
+	g.drawImage (WaterFall, -100, -100, this);
+
+	sprite = getImage (getDocumentBase (), "sprite.png");
+	g.drawImage (sprite, -100, -100, this);
+
+	spriteleft = getImage (getDocumentBase (), "spriteleft.png");
+	g.drawImage (spriteleft, -100, -100, this);
+
+	spriteright = getImage (getDocumentBase (), "spriteright.png");
+	g.drawImage (spriteright, -100, -100, this);
+
+	spriteback = getImage (getDocumentBase (), "spriteback.png");
+	g.drawImage (spriteback, -100, -100, this);
+
+	Housefront = getImage (getDocumentBase (), "HousefrontHUD.jpg");
+	g.drawImage (Housefront, -100, -100, this);
+
+	introtran = getImage (getDocumentBase (), "WaterfallHUDTransition.jpg");
+	g.drawImage (introtran, -100, -100, this);
+
+	housesign = getImage (getDocumentBase (), "Housesign.png");
+	g.drawImage (housesign, -100, -100, this);
+    }
+
+
+    public void mouseClicked (MouseEvent e)
+    {
+    }
+
+
+    public void mouseEntered (MouseEvent e)
+    {
+    }
+
+
+    public void mouseExited (MouseEvent e)
+    {
+    }
+
+
+    public void mouseReleased (MouseEvent e)
+    {
+    }
+
+
+    public void mousePressed (MouseEvent e)
+    {
+
+	Graphics g = getGraphics ();
+
+	//get the x and y co-ordinates of the mouse
+	int x = e.getX ();
+	int y = e.getY ();
+
+	//Title
+	if (screen == 0)
+	{
+	    // Play button switches to play screen
+	    if (x > 306 && x < 500 && y > 340 && y < 415)
+		screen = 1;
+	}
+
+	//Waterfall DPAD + Exit Button
+	if (screen == 1)
+	{
+	    if (x > 662 && x < 697 && y > 21 && y < 66) //Up Button
+	    {
+		if (y1 - 1 < 0)
+		{
+		}
+
+		else if (validwaterfall [y1 - 1] [x1] == 1)
+		    y1--;
+
+		sprite = spriteback;
+	    }
+
+	    else if (x > 662 && x < 697 && y > 18 && y < 146) //Down Button
+	    {
+		if (validwaterfall [y1 + 1] [x1] == 1)
+		    y1++;
+
+		sprite = getImage (getDocumentBase (), "Sprite.png");
+	    }
+
+	    else if (x > 617 && x < 661 && y > 65 && y < 101) //Left Button
+	    {
+		if (x1 - 1 < 0)
+		{
+		}
+
+		else if (validwaterfall [y1] [x1 - 1] == 1)
+		    x1--;
+
+		sprite = spriteleft;
+	    }
+
+	    else if (x > 697 && x < 741 && y > 65 && y < 101) //Right Button
+	    {
+		if (validwaterfall [y1] [x1 + 1] == 1)
+		    x1++;
+
+		sprite = spriteright;
+	    }
+
+	    if (x > 630 && x < 735 && y > 384 && y < 481)  //Exit button
+
+		//Pops up a window for Yes or No exit option
+
+		{
+		    int exit = JOptionPane.showConfirmDialog (null, "Are you sure you want to exit?\n\nAll of your progress will be deleted!\n", "Warning!", JOptionPane.YES_NO_OPTION);
+
+		    if (exit == 0)
+		    {
+			x1 = 0;
+			y1 = 0;
+			screen = 0;
+			sprite = getImage (getDocumentBase (), "Sprite.png");
+		    }
+		}
+	}
+
+	//House screen DPAD + Exit Button
+	else if (screen == 3)
+	{
+	    if (x > 662 && x < 697 && y > 21 && y < 66) //Up Button
+	    {
+		if (y1 - 1 < 0)
+		{
+		}
+
+		else if (validhousefront [y1 - 1] [x1] == 1)
+		    y1--;
+
+		sprite = spriteback;
+	    }
+
+	    else if (x > 662 && x < 697 && y > 18 && y < 146) //Down Button
+	    {
+		if (y1 + 1 > 10)
+		{
+		}
+
+		else if (validhousefront [y1 + 1] [x1] == 1)
+		    y1++;
+
+		sprite = getImage (getDocumentBase (), "Sprite.png");
+	    }
+
+	    else if (x > 617 && x < 661 && y > 65 && y < 101) //Left Button
+	    {
+		if (x1 - 1 < 0)
+		{
+		}
+
+		else if (validhousefront [y1] [x1 - 1] == 1)
+		    x1--;
+
+		sprite = spriteleft;
+	    }
+
+	    else if (x > 697 && x < 741 && y > 65 && y < 101) //Right Button
+	    {
+		if (x1 + 1 > 16)
+		{
+		}
+
+		else if (validhousefront [y1] [x1 + 1] == 1)
+		    x1++;
+
+		sprite = spriteright;
+	    }
+
+	    if (x > 630 && x < 735 && y > 384 && y < 481)  //Exit button
+
+		//Pops up a window for Yes or No exit option
+
+		{
+		    int exit = JOptionPane.showConfirmDialog (null, "Are you sure you want to exit?\n\nAll of your progress will be deleted!\n", "Warning!", JOptionPane.YES_NO_OPTION);
+
+		    if (exit == 0)
+		    {
+			x1 = 0;
+			y1 = 0;
+			screen = 0;
+			sprite = getImage (getDocumentBase (), "Sprite.png");
+		    }
+		}
+	}
+
+	repaint ();
+	//end screen 1
+    }
+
+
+    //Keyboard input
+
+    public void keyPressed (KeyEvent e)
+    {
+	if (screen == 1)
+	{
+	    if (e.getKeyCode () == e.VK_UP) //up
+	    {
+		if (y1 - 1 < 0)
+		{
+		}
+
+		else if (validwaterfall [y1 - 1] [x1] == 1)
+		    y1--;
+
+		sprite = spriteback;
+	    }
+
+	    if (e.getKeyCode () == e.VK_DOWN) //down
+	    {
+		if (validwaterfall [y1 + 1] [x1] == 1)
+		    y1++;
+
+		sprite = getImage (getDocumentBase (), "Sprite.png");
+	    }
+
+	    if (e.getKeyCode () == e.VK_LEFT) //left
+	    {
+		if (x1 - 1 < 0)
+		{
+		}
+
+		else if (validwaterfall [y1] [x1 - 1] == 1)
+		    x1--;
+
+		sprite = spriteleft;
+	    }
+
+	    if (e.getKeyCode () == e.VK_RIGHT) //right
+	    {
+		if (validwaterfall [y1] [x1 + 1] == 1)
+		    x1++;
+
+		sprite = spriteright;
+	    }
+	}
+
+	else if (screen == 3)
+	{
+	    if (e.getKeyCode () == e.VK_UP) //up
+	    {
+		if (y1 - 1 < 0)
+		{
+		}
+
+		else if (validhousefront [y1 - 1] [x1] == 1)
+		    y1--;
+
+		sprite = spriteback;
+	    }
+
+	    if (e.getKeyCode () == e.VK_DOWN) //down
+	    {
+		if (y1 + 1 > 10)
+		{
+		}
+
+		else if (validhousefront [y1 + 1] [x1] == 1)
+		    y1++;
+
+		sprite = getImage (getDocumentBase (), "Sprite.png");
+	    }
+
+	    if (e.getKeyCode () == e.VK_LEFT) //left
+	    {
+		if (x1 - 1 < 0)
+		{
+		}
+
+		else if (validhousefront [y1] [x1 - 1] == 1)
+		    x1--;
+
+		sprite = spriteleft;
+	    }
+
+	    if (e.getKeyCode () == e.VK_RIGHT) //right
+	    {
+		if (x1 + 1 > 16)
+		{
+		}
+
+		else if (validhousefront [y1] [x1 + 1] == 1)
+		    x1++;
+
+		sprite = spriteright;
+	    }
+	}
+	repaint ();
+	//end screen 1
+
+    }
+
+
+    public void keyReleased (KeyEvent e)
+    {
+
+    }
+
+
+    public void keyTyped (KeyEvent e)
+    {
+
+    }
+
+
+    public void update (Graphics g)
+    { //Overide the regular update method so it doesn't clear the screen before it draws (Gets rid of annoying white flicker)
+	paint (g);
+    }
+
+
+    public void paint (Graphics g)
+    {
+	if (screen == 0) //Start
+	{
+	    g.drawImage (Title, 0, 0, this);
+	    showStatus ("Running: Sahir, the Adventurist - Zain Zulfiqar");
+	    switchrest = 0;
+	}
+
+	if (screen == 1) //Start
+	{
+	    g.drawImage (WaterFall, 0, 0, this);
+	    g.drawImage (sprite, (x1 * 32 + 20), (y1 * 32 + 44), this);
+	    showStatus ("Running: Waterfall Intro - Zain Zulfiqar");
+	    switchrest = 1;
+	    g.drawString ("" + validhousefront [y1] [x1], 680, 227);
+	    g.drawString ("" + x1, 680, 327);
+	    g.drawString ("" + y1, 680, 427);
+
+	    if (y1 == 6 && x1 == 8 && sprite == spriteright) // animates the character and transitions into the second map
+	    {
+		JOptionPane.showMessageDialog (null, "You find a mysterious old bottle with a letter inside.\nIt is stuck in the rocks near the edge of the waterfall.\n\n"
+			+ "You would be asked if you would like to pick it up,\nbut uou don't have a choice.\n"
+			+ "So you take the risk at the edge of the waterfall\nand try to grab the bottle.", "Discovery", JOptionPane.INFORMATION_MESSAGE);
+		x1++;
+		sprite = getImage (getDocumentBase (), "Sprite.png");
+		screen = 2;   //switches to the screen with animation
+	    }
+	}
+
+	if (screen == 2)
+	{
+
+	    g.drawImage (introtran, 0, 0, this);
+	    try
+	    {
+		Thread.sleep (1000);
+	    }
+	    catch (InterruptedException e)
+	    {
+	    }
+
+	    x1 += 7;
+	    y1 += 4;
+	    sprite = spriteleft;
+	    screen = 3;
+	}
+
+	if (screen == 3)
+	{
+	    g.drawImage (Housefront, 0, 0, this);
+	    g.drawImage (sprite, (x1 * 32 + 20), (y1 * 32 + 44), this);
+	    g.setFont (new Font ("Arial", Font.PLAIN, 64));
+	    g.drawString ("" + validhousefront [y1] [x1], 680, 227);
+	    g.drawString ("" + x1, 680, 327);
+	    g.drawString ("" + y1, 680, 427);
+	    JOptionPane.showMessageDialog (null, "Your risky decision of trying to grab the bottle causes you to trip\n"
+	+ " in to the waterfall. You washup in front of a mysterious house and are\n"
+	+ "surrounded by giant cliffs. You see a staircase leading to the top of the\n"
+	+ "cliffs. The only way to get there is by getting to the backyard of the house.", "Adventure Begins", JOptionPane.INFORMATION_MESSAGE);
+
+	    if (x1 == 6 && y1 == 9 && sprite == spriteback)
+	    {
+		g.drawImage (housesign, 0, 0, this);
+	    }
+	}
+    }
+}
+
+
+
+
+
