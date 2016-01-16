@@ -1,5 +1,5 @@
 # The-Adventurist
-## Java based RPG game.
+#### Java based RPG game.
 
 A Java based RPG game designed in grade 10.
 
